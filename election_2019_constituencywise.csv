@@ -1,0 +1,541 @@
+sl no,constituency,over total electors in constituency,over total votes polled in constituency
+1,Aruku,74.03,99.66
+2,Srikakulam,74.48,99.4
+3,Vizianagaram,80.98,99.63
+4,Visakhapatnam,67.77,99.99
+5,Anakapalli,81.41,99.84
+6,Kakinada,78.95,99.83
+7,Amalapuram,84.47,99.8
+8,Rajahmundry,81.5,100
+9,Narsapuram,81.8,99.88
+10,Eluru,83.26,99.68
+11,Machilipatnam,84.47,99.92
+12,Vijayawada,77.3,99.99
+13,Guntur,79.21,100
+14,Narasaraopet,86.05,99.77
+15,Bapatla,86.23,99.72
+16,Ongole,86.24,99.88
+17,Nandyal,81.03,99.95
+18,Kurnool,75.54,99.8
+19,Anantapur,80.66,99.57
+20,Hindupur,84.81,99.89
+21,Kadapa,78.22,99.41
+22,Nellore,76.94,99.84
+23,Tirupati,79.59,99.78
+24,Rajampet,79.15,99.85
+25,Chittoor,84.23,99.99
+26,ARUNACHAL WEST,77.26,98.42
+27,ARUNACHAL EAST,86.46,99.34
+28,Karimganj,79.1,99.9
+29,Silchar,79.42,99.9
+30,Autonomous District,77.61,99.98
+31,Dhubri,90.66,100
+32,Kokrajhar,83.29,99.98
+33,Barpeta,86.55,99.98
+34,Gauhati,80.86,99.99
+35,Mangaldoi,83.66,99.98
+36,Tezpur,79.37,99.86
+37,Nowgong,83.22,99.99
+38,Kaliabor,82.12,99.99
+39,Jorhat,77.5,99.92
+40,Dibrugarh,77.28,99.98
+41,Lakhimpur,75.15,99.97
+42,Valmiki Nagar,61.97,99.99
+43,Paschim Champaran,62,99.96
+44,Purvi Champaran,60.25,99.93
+45,Sheohar,59.57,99.96
+46,Sitamarhi,59.28,99.93
+47,Madhubani,53.75,99.9
+48,Jhanjharpur,57.25,99.83
+49,Supaul,65.7,99.98
+50,Araria,64.78,99.99
+51,Kishanganj,66.38,100
+52,Katihar,67.6,99.95
+53,Purnia,65.37,100
+54,Madhepura,60.87,99.97
+55,Darbhanga,58.31,99.95
+56,Muzaffarpur,61.14,99.96
+57,Vaishali,61.91,100
+58,Gopalganj,55.71,99.88
+59,Siwan,54.73,100
+60,Maharajganj,53.81,99.97
+61,Saran,56.56,99.94
+62,Hajipur,55.21,99.91
+63,Ujiarpur,60.12,99.94
+64,Samastipur,60.69,99.93
+65,Begusarai,62.58,99.93
+66,Khagaria,57.67,99.94
+67,Bhagalpur,57.16,99.94
+68,Banka,58.6,99.99
+69,Munger,54.89,99.98
+70,Nalanda,48.76,99.94
+71,Patna Sahib,45.77,99.93
+72,Pataliputra,55.97,99.9
+73,Arrah,51.72,99.84
+74,Buxar,53.95,99.99
+75,Sasaram,54.52,99.92
+76,Karakat,49.05,99.91
+77,Jahanabad,51.75,99.98
+78,Aurangabad,53.64,99.94
+79,Gaya,56.16,99.96
+80,Nawada,49.61,99.76
+81,Jamui,55.22,99.96
+82,North Goa,76.99,99.91
+83,South Goa,73.28,99.97
+84,Kachchh,58.66,99.91
+85,Banaskantha,64.93,99.85
+86,Patan,62.33,99.81
+87,Mahesana,65.62,99.75
+88,Sabarkantha,67.62,99.79
+89,Gandhinagar,65.99,99.86
+90,Ahmedabad East,61.61,99.76
+91,Ahmedabad West,60.67,99.78
+92,Surendranagar,58.27,99.77
+93,Rajkot,63.43,99.91
+94,Porbandar,57.14,99.88
+95,Jamnagar,61.01,99.95
+96,Junagadh,61.16,99.75
+97,Amreli,55.83,99.75
+98,Bhavnagar,58.89,99.72
+99,Anand,66.95,99.87
+100,Kheda,60.9,99.77
+101,Panchmahal,62.11,99.81
+102,Dahod,66.49,99.89
+103,Vadodara,68.1,99.89
+104,Chhota Udaipur,73.74,99.79
+105,Bharuch,73.49,99.92
+106,Bardoli,73.8,99.88
+107,Surat,64.53,99.92
+108,Navsari,66.34,99.91
+109,Valsad,75.43,99.92
+110,Ambala,71.01,99.87
+111,Kurukshetra,74.23,99.92
+112,Sirsa,75.94,99.94
+113,Hisar,72.3,99.83
+114,Karnal,68.31,99.94
+115,Sonipat,70.92,99.86
+116,Rohtak,70.26,99.64
+117,Bhiwani-Mahendragarh,70.19,99.59
+118,Gurgaon,67.26,99.89
+119,Faridabad,64.06,99.94
+120,Kangra,70.55,99.75
+121,Mandi,73.46,99.81
+122,Hamirpur,72.58,99.67
+123,Shimla,72.56,99.83
+124,Baramulla,34.57,99.9
+125,Srinagar,14.43,99.98
+126,Anantnag,8.94,99.55
+127,Ladakh,70.54,99.27
+128,Udhampur,70,99.78
+129,Jammu,72.23,99.62
+130,Chikkodi,75.5,99.84
+131,Bagalkot,70.69,99.99
+132,Bijapur,61.82,99.9
+133,Gulbarga,61.13,99.91
+134,Raichur,58.31,99.95
+135,Bidar,62.94,99.9
+136,Koppal,68.54,99.98
+137,Bellary,69.76,100
+138,Haveri,74.14,99.9
+139,Dharwad,70.25,99.95
+140,Uttara Kannada,74.1,99.92
+141,Davanagere,73.15,99.95
+142,Shimoga,76.56,99.96
+143,Udupi Chikmagalur,76.03,99.95
+144,Hassan,77.29,99.91
+145,Dakshina Kannada,77.97,99.98
+146,Chitradurga,70.77,99.96
+147,Tumkur,77.39,99.95
+148,Mandya,80.56,99.97
+149,Mysore,69.5,100
+150,Chamarajanagar,75.35,99.99
+151,Bangalore Rural,64.94,99.94
+152,Bangalore North,54.73,99.94
+153,Bangalore central,54.3,99.96
+154,Bangalore South,53.64,99.9
+155,Chikkballapur,76.68,99.93
+156,Kolar,77.21,99.96
+157,Kasaragod,80.65,100
+158,Kannur,83.21,99.91
+159,Vadakara,82.67,99.97
+160,Wayanad,80.33,99.95
+161,Kozhikode,81.65,99.94
+162,Malappuram,75.49,99.98
+163,Ponnani,74.98,99.99
+164,Palakkad,77.72,99.94
+165,Alathur,80.42,99.94
+166,Thrissur,77.92,99.98
+167,Chalakudy,80.49,99.98
+168,Ernakulam,77.63,99.98
+169,Idukki,76.34,99.97
+170,Kottayam,75.44,99.97
+171,Alappuzha,80.25,99.87
+172,Mavelikkara,74.23,99.86
+173,Pathanamthitta,74.24,99.92
+174,Kollam,74.66,99.91
+175,Attingal,74.4,99.88
+176,Thiruvananthapuram,73.66,99.89
+177,MORENA,61.89,99.87
+178,BHIND,54.42,99.79
+179,GWALIOR,59.78,99.93
+180,GUNA,70.32,99.98
+181,SAGAR,65.51,99.97
+182,TIKAMGARH,66.57,99.93
+183,DAMOH,65.82,99.98
+184,KHAJURAHO,68.28,99.96
+185,SATNA,70.71,99.99
+186,REWA,60.33,99.86
+187,SIDHI,69.5,100
+188,SHAHDOL,74.73,99.95
+189,JABALPUR,69.43,99.96
+190,MANDLA,77.76,99.96
+191,BALAGHAT,77.61,99.95
+192,CHHINDWARA,82.39,99.96
+193,HOSHANGABAD,74.19,99.97
+194,VIDISHA,71.79,99.94
+195,BHOPAL,65.7,99.95
+196,RAJGARH,74.39,99.95
+197,DEWAS,79.46,99.95
+198,UJJAIN,75.4,99.96
+199,MANDSOUR,77.84,99.94
+200,RATLAM,75.66,99.94
+201,DHAR,75.25,100
+202,INDORE,69.31,99.97
+203,KHARGONE,77.82,99.97
+204,KHANDWA,76.9,100
+205,BETUL,78.15,99.96
+206,Nandurbar,68.5,99.78
+207,Dhule,56.86,99.67
+208,Jalgaon,56.35,99.63
+209,Raver,61.57,99.68
+210,Buldhana,63.55,99.93
+211,Akola,60.02,99.93
+212,Amravati,60.68,99.87
+213,Wardha,61.53,99.99
+214,Ramtek,62.24,99.91
+215,Nagpur,54.88,99.9
+216,Bhandara - gondiya,68.72,99.87
+217,Gadchiroli-Chimur,72.26,99.91
+218,Chandrapur,64.84,99.92
+219,Yavatmal-Washim,61.28,99.95
+220,Hingoli,66.76,99.89
+221,Nanded,65.69,99.99
+222,Parbhani,63.11,99.98
+223,Jalna,64.7,99.92
+224,Aurangabad,63.52,99.96
+225,Dindori,65.65,99.91
+226,Nashik,59.48,99.92
+227,Palghar,63.74,99.98
+228,Bhiwandi,53.18,99.96
+229,Kalyan,45.29,99.96
+230,Thane,49.37,99.96
+231,Mumbai North,60.08,99.98
+232,Mumbai North West,54.35,99.96
+233,Mumbai North East,57.22,99.98
+234,Mumbai North central,53.68,100
+235,Mumbai South central,55.35,99.92
+236,Mumbai South,51.58,99.98
+237,Raigad,62.04,99.79
+238,Maval,59.57,99.96
+239,Pune,49.87,99.96
+240,Baramati,61.7,99.8
+241,Shirur,59.44,100
+242,Ahmadnagar,64.67,99.81
+243,Shirdi,64.86,99.89
+244,Beed,66.12,99.92
+245,Osmanabad,63.75,99.99
+246,Latur,62.36,99.87
+247,Solapur,58.57,99.83
+248,Madha,63.7,99.88
+249,Sangli,65.78,99.78
+250,Satara,60.34,99.79
+251,Ratnagiri - sindhudurg,61.91,99.86
+252,Kolhapur,70.77,99.88
+253,Hatkanangle,70.49,99.83
+254,Inner manipur,81,99.85
+255,Outer manipur,83.95,99.77
+256,Shillong,65.47,99.99
+257,Tura,81.32,99.92
+258,MIZORAM,63.05,99.85
+259,Nagaland,82.91,99.89
+260,Bargarh,78.18,99.75
+261,Sundargarh,71.83,99.92
+262,Sambalpur,76.57,99.8
+263,Keonjhar,77.56,99.98
+264,Mayurbhanj,77.04,99.88
+265,Balasore,75.59,99.87
+266,Bhadrak,73.73,99.76
+267,Jajpur,74.04,99.92
+268,Dhenkanal,75.21,99.85
+269,Bolangir,74.91,100
+270,Kalahandi,76.24,99.79
+271,Nabarangpur,79.38,99.82
+272,Kandhamal,73.1,99.99
+273,Cuttack,69.75,99.91
+274,Kendrapara,72.37,99.98
+275,Jagatsinghpur,74.79,99.95
+276,Puri,72.69,99.96
+277,Bhubaneswar,59.14,99.96
+278,Aska,65.79,100
+279,Berhampur,65.89,99.98
+280,Koraput,75.3,99.95
+281,Gurdaspur,69.2,99.94
+282,Amritsar,57,99.88
+283,Khadoor Sahib,63.83,99.8
+284,Jalandhar,63.02,99.96
+285,Hoshiarpur,62.02,99.91
+286,Anandpur Sahib,63.67,99.97
+287,Ludhiana,62.2,99.99
+288,Fatehgarh Sahib,65.6,99.88
+289,Faridkot,63.23,99.97
+290,Firozpur,72.42,99.93
+291,Bathinda,74.05,99.85
+292,Sangrur,72.31,99.88
+293,Patiala,67.71,99.92
+294,Ganganagar,74.7,99.91
+295,Bikaner,59.39,99.92
+296,Churu,65.79,99.83
+297,Jhunjhunu,61.87,99.6
+298,Sikar,65,99.72
+299,Jaipur Rural,65.39,99.77
+300,Jaipur,68.47,99.99
+301,Alwar,67.02,99.78
+302,BHARATPUR,59,99.81
+303,KARAULI-DHOLPUR,55.12,99.89
+304,Dausa,61.43,99.88
+305,TONK-SAWAI MADHOPUR,63.38,99.92
+306,Ajmer,67.27,99.92
+307,Nagaur,62.24,99.86
+308,Pali,62.91,99.87
+309,Jodhpur,68.8,99.87
+310,Barmer,73.27,99.96
+311,Jalore,65.74,100
+312,Udaipur,70.28,99.94
+313,Banswara,72.88,99.97
+314,Chittorgarh,72.36,99.97
+315,Rajsamand,64.81,99.92
+316,Bhilwara,65.61,99.96
+317,Kota,70.18,99.93
+318,JHALAWAR-BARAN,71.95,99.99
+319,Sikkim,81.02,99.53
+320,Thiruvallur,72.33,99.99
+321,Chennai North,64.23,99.96
+322,Chennai South,57.05,99.96
+323,Chennai central,58.95,99.96
+324,Sriperumbudur,62.43,99.97
+325,Kancheepuram,75.28,99.96
+326,Arakkonam,78.54,99.86
+327,Krishnagiri,75.89,99.92
+328,Dharmapuri,82.33,99.9
+329,Tiruvannamalai,78.14,99.99
+330,Arani,78.94,99.91
+331,Viluppuram,78.62,99.95
+332,Kallakurichi,78.77,99.95
+333,Salem,77.86,99.93
+334,Namakkal,80.2,99.98
+335,Erode,73.03,99.89
+336,Tiruppur,73.17,99.95
+337,Nilgiris,73.99,99.97
+338,Coimbatore,63.86,100
+339,Pollachi,71.15,100
+340,Dindigul,75.24,99.92
+341,Karur,79.52,99.96
+342,Tiruchirappalli,69.46,99.93
+343,Perambalur,79.23,99.96
+344,Cuddalore,76.48,99.98
+345,Chidambaram,77.91,99.91
+346,Mayiladuthurai,73.9,99.95
+347,Nagapattinam,76.88,99.93
+348,Thanjavur,72.5,99.92
+349,Sivaganga,69.87,99.96
+350,Madurai,66.02,99.89
+351,Theni,75.17,99.87
+352,Virudhunagar,72.41,99.89
+353,Ramanathapuram,68.35,99.93
+354,Thoothukkudi,69.43,99.93
+355,Tenkasi,71.37,99.91
+356,Tirunelveli,67.21,100
+357,Kanniyakumari,69.83,99.9
+358,Tripura West,81.88,99.94
+359,Tripura East,82.85,99.93
+360,Saharanpur,70.83,99.94
+361,Kairana,67.44,99.99
+362,Muzaffarnagar,68.32,99.85
+363,Bijnor,66.15,99.89
+364,Nagina,63.64,99.97
+365,Moradabad,65.45,100
+366,Rampur,63.17,99.97
+367,Sambhal,64.71,99.97
+368,Amroha,71.01,99.95
+369,Meerut,64.26,99.96
+370,Baghpat,64.64,99.93
+371,Ghaziabad,55.86,99.96
+372,Gautam Buddha Nagar,60.49,99.99
+373,Bulandshahr,62.85,99.88
+374,Aligarh,61.64,99.93
+375,Hathras,61.7,99.9
+376,Mathura,61,99.86
+377,Agra,59.11,99.97
+378,Fatehpur Sikri,60.34,99.87
+379,Firozabad,60.09,99.93
+380,Mainpuri,56.67,99.82
+381,Etah,61.65,99.93
+382,Badaun,57.15,99.97
+383,Aonla,58.96,99.99
+384,Bareilly,59.43,99.94
+385,Pilibhit,67.37,99.95
+386,Shahjahanpur,56.1,99.92
+387,Kheri,64.19,99.99
+388,Dhaurahra,64.68,99.99
+389,Sitapur,63.89,99.93
+390,Hardoi,58.52,99.97
+391,Misrikh,57.13,99.93
+392,Unnao,56.45,99.96
+393,Mohanlalganj,62.74,99.92
+394,Lucknow,54.72,99.89
+395,Rae Bareli,56.31,99.95
+396,Amethi,54.05,99.95
+397,Sultanpur,56.35,99.96
+398,Pratapgarh,53.53,99.94
+399,Farrukhabad,58.7,99.97
+400,Etawah,58.47,99.9
+401,Kannauj,60.83,99.96
+402,Kanpur,51.62,99.95
+403,Akbarpur,58.05,99.87
+404,Jalaun,58.45,99.93
+405,Jhansi,67.67,99.98
+406,Hamirpur,62.31,99.98
+407,Banda,60.78,99.96
+408,Fatehpur,56.74,99.92
+409,Kaushambi,54.53,99.94
+410,Phulpur,48.66,99.91
+411,Allahabad,51.8,99.94
+412,Barabanki,63.59,99.97
+413,Faizabad,59.67,99.97
+414,Ambedkar Nagar,61.05,99.96
+415,Bahraich,57.22,99.97
+416,Kaiserganj,54.34,99.91
+417,Shrawasti,52.07,99.99
+418,Gonda,52.19,99.97
+419,Domariyaganj,52.26,99.99
+420,Basti,57.15,99.94
+421,Sant Kabir Nagar,54.17,99.95
+422,Maharajganj,64.06,99.97
+423,Gorakhpur,59.79,99.98
+424,Kushi Nagar,59.78,99.98
+425,Deoria,57.88,99.98
+426,Bansgaon,55.34,99.93
+427,Lalganj,54.83,99.95
+428,Azamgarh,57.52,99.93
+429,Ghosi,57.28,99.94
+430,Salempur,55.33,99.83
+431,Ballia,54.3,99.92
+432,Jaunpur,55.71,99.89
+433,Machhlishahr,55.99,99.95
+434,Ghazipur,58.78,99.83
+435,Chandauli,61.76,99.89
+436,Varanasi,57.11,99.97
+437,Bhadohi,53.51,99.95
+438,Mirzapur,60.1,99.99
+439,Robertsganj,57.34,99.95
+440,Cooch behar,84.04,99.95
+441,Alipurduars,83.73,99.93
+442,Jalpaiguri,86.49,99.97
+443,Darjeeling,78.65,99.81
+444,Raiganj,79.76,99.92
+445,Balurghat,83.67,99.97
+446,Maldaha Uttar,80.35,99.95
+447,Maldaha Dakshin,81.19,99.94
+448,Jangipur,80.71,99.99
+449,Baharampur,79.35,99.92
+450,Murshidabad,84.27,99.97
+451,Krishnanagar,83.74,99.99
+452,Ranaghat,84.21,99.95
+453,Bangaon,82.58,99.94
+454,Barrackpore,76.89,99.98
+455,Dum dum,76.92,100
+456,Barasat,81.21,99.95
+457,Basirhat,85.4,99.97
+458,Jaynagar,82.27,99.98
+459,Mathurapur,84.86,100
+460,Diamond harbour,81.96,99.97
+461,Jadavpur,79.09,99.97
+462,Kolkata Dakshin,69.79,99.96
+463,Kolkata Uttar,65.83,100
+464,Howrah,74.81,99.97
+465,Uluberia,81.18,100
+466,Srerampur,78.51,99.96
+467,Hooghly,82.52,99.95
+468,Arambagh,83.41,99.97
+469,Tamluk,85.36,99.97
+470,Kanthi,85.79,99.95
+471,Ghatal,82.71,99.97
+472,Jhargram,85.65,99.93
+473,Medinipur,84.21,99.96
+474,Purulia,82.34,99.95
+475,Bankura,83.2,99.94
+476,Bishnupur,87.31,99.96
+477,Bardhaman Purba,84.76,99.98
+478,Bardhaman Durgapur,82.66,99.99
+479,Asansol,76.62,100
+480,Bolpur,85.7,99.95
+481,Birbhum,85.3,99.95
+482,SARGUJA,77.37,99.96
+483,RAIGARH,77.87,99.95
+484,JANJGIR-CHAMPA,65.76,99.93
+485,KORBA,75.35,99.95
+486,BILASPUR,64.44,99.93
+487,RAJNANDGAON,76.15,99.94
+488,DURG,71.74,99.95
+489,RAIPUR,66.12,99.94
+490,MAHASAMUND,74.63,99.96
+491,BASTAR,66.19,99.9
+492,KANKER,74.36,99.91
+493,Rajmahal,72.03,99.98
+494,Dumka,73.43,100
+495,Godda,69.55,99.97
+496,Chatra,64.97,100
+497,Kodarma,66.67,99.99
+498,Giridih,67.11,99.98
+499,Dhanbad,60.45,99.96
+500,Ranchi,64.45,99.94
+501,Jamshedpur,67.18,99.98
+502,Singhbhum,69.24,99.98
+503,Khunti,69.21,99.95
+504,Lohardaga,66.24,99.9
+505,Palamau,64.3,99.94
+506,Hazaribagh,64.82,99.96
+507,Tehri Garhwal,58.66,99.65
+508,Garhwal,54.79,99.3
+509,Almora,51.91,99.24
+510,Nainital-udhamsingh Nagar,68.83,99.81
+511,Hardwar,69.05,99.81
+512,Adilabad,71.4,99.98
+513,Peddapalle,65.58,99.99
+514,Karimnagar,69.49,99.96
+515,Zahirabad,69.69,99.99
+516,Medak,71.74,99.99
+517,Malkajgiri,49.62,99.96
+518,Secundrabad,46.49,99.98
+519,Hyderabad,44.84,99.99
+520,CHEVELLA,53.22,99.94
+521,Mahbubnagar,65.38,99.99
+522,Nagarkurnool,62.33,100
+523,Nalgonda,74.13,99.98
+524,Bhongir,74.48,99.99
+525,Warangal,63.69,100
+526,Mahabubabad,69.05,99.98
+527,Khammam,75.3,100
+528,Andaman & Nicobar Islands,65.09,99.95
+529,CHANDIGARH,70.6,99.98
+530,Dadra And Nagar Haveli,79.58,100
+531,Daman & diu,71.85,100
+532,CHANDNI CHOWK,62.75,99.96
+533,NORTH EAST DELHI,63.81,99.91
+534,EAST DELHI,61.68,99.97
+535,NEW DELHI,56.91,100
+536,NORTH WEST DELHI,58.97,100
+537,WEST DELHI,60.78,99.94
+538,SOUTH DELHI,58.73,99.97
+539,Lakshadweep,85.18,99.96
+540,Puducherry,81.24,99.98

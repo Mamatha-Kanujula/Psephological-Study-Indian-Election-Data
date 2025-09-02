@@ -1,0 +1,546 @@
+pc_name,No,Type,state_name,Winning Candidate,Party,Electors,Votes,Turnout,Margin,Margin %,Turnout Votes,Calculated Margin %,Is Outlier
+Andaman And Nicobar Islands,1,GEN,Andaman and Nicobar,bishnu pada ray,bharatiya janta party,269360,190328,70.70%,7812,4.10%,190437.52,4.104493296,FALSE
+Amalapuram,24,SC,Andhra Pradesh,dr pandula ravindra babu,telugu desam,1357866,1120927,82.60%,120576,10.80%,1121597.316,10.7568111,FALSE
+Anakapalle,22,GEN,Andhra Pradesh,muttamsetti srinivasa rao (avanthi),telugu desam,1401474,1148072,81.90%,47932,4.20%,1147807.206,4.174999477,FALSE
+Anantapur,36,GEN,Andhra Pradesh,j.c. divakar reddi,telugu desam,1536912,1205054,78.40%,61269,5.10%,1204939.008,5.08433647,FALSE
+Araku,18,ST,Andhra Pradesh,kothapalli geetha,yuvajana sramika rythu congress party,1272724,909614,71.50%,91398,10.00%,909997.66,10.04799838,FALSE
+Bapatla,32,SC,Andhra Pradesh,malyadri sriram,telugu desam,1392965,1184634,85.00%,32754,2.80%,1184020.25,2.764904603,FALSE
+Chittoor,42,SC,Andhra Pradesh,naramalli sivaprasad,telugu desam,1452141,1198915,82.60%,44138,3.70%,1199468.466,3.681495352,FALSE
+Eluru,27,GEN,Andhra Pradesh,maganti venkateswara rao (babu),telugu desam,1427760,1201696,84.20%,101926,8.50%,1202173.92,8.481845658,FALSE
+Guntur,30,GEN,Andhra Pradesh,jayadev galla,telugu desam,1572016,1244926,79.20%,69111,5.60%,1245036.672,5.551414301,FALSE
+Hindupur,37,GEN,Andhra Pradesh,kristappa nimmala,telugu desam,1446503,1177257,81.40%,97325,8.30%,1177453.442,8.267098858,FALSE
+Kadapa,38,GEN,Andhra Pradesh,y.s. avinash reddy,yuvajana sramika rythu congress party,1550579,1200662,77.40%,190323,15.90%,1200148.146,15.85150525,FALSE
+Kakinada,23,GEN,Andhra Pradesh,thota narasimham,telugu desam,1418290,1099999,77.60%,3431,0.30%,1100593.04,0.311909374,FALSE
+Kurnool,35,GEN,Andhra Pradesh,butta renuka,yuvajana sramika rythu congress party,1481807,1065732,71.90%,44131,4.10%,1065419.233,4.140909722,FALSE
+Machilipatnam,28,GEN,Andhra Pradesh,konakalla narayana rao,telugu desam,1369311,1141065,83.30%,81057,7.10%,1140636.063,7.103626875,FALSE
+Nandyal,34,GEN,Andhra Pradesh,s.p.y reddy,yuvajana sramika rythu congress party,1577128,1204956,76.40%,105766,8.80%,1204925.792,8.77758192,FALSE
+Narasaraopet,31,GEN,Andhra Pradesh,sambasiva rao rayapati,telugu desam,1514861,1282058,84.60%,35280,2.80%,1281572.406,2.75182558,FALSE
+Narsapuram,26,GEN,Andhra Pradesh,gokaraju ganga raju,bharatiya janta party,1325143,1088951,82.20%,85351,7.80%,1089267.546,7.837910062,FALSE
+Nellore,39,GEN,Andhra Pradesh,mekapati rajamohan reddy,yuvajana sramika rythu congress party,1606140,1187648,73.90%,13478,1.10%,1186937.46,1.134848036,FALSE
+Ongole,33,GEN,Andhra Pradesh,y.v.subba reddy,yuvajana sramika rythu congress party,1470483,1208225,82.20%,15658,1.30%,1208737.026,1.295950671,FALSE
+Rajahmundry,25,GEN,Andhra Pradesh,murali mohan maganti,telugu desam,1421288,1154381,81.20%,167434,14.50%,1154085.856,14.50422348,FALSE
+Rajampet,41,GEN,Andhra Pradesh,p.v.midhun reddy,yuvajana sramika rythu congress party,1487498,1158317,77.90%,174762,15.10%,1158760.942,15.08757965,FALSE
+Srikakulam,19,GEN,Andhra Pradesh,rammohan naidu kinjarapu,telugu desam,1413989,1051446,74.40%,127572,12.10%,1052007.816,12.1330054,FALSE
+Tirupati,40,SC,Andhra Pradesh,varaprasad rao velagapalli,yuvajana sramika rythu congress party,1574544,1213064,77.00%,37425,3.10%,1212398.88,3.08516286,FALSE
+Vijayawada,29,GEN,Andhra Pradesh,kesineni srinivas,telugu desam,1564513,1195075,76.40%,74862,6.30%,1195287.932,6.264209359,FALSE
+Visakhapatnam,21,GEN,Andhra Pradesh,kambhampati hari babu,bharatiya janta party,1723037,1163558,67.50%,90488,7.80%,1163049.975,7.776836221,FALSE
+Vizianagaram,20,GEN,Andhra Pradesh,ashok gajapathi raju pusapati,telugu desam,1404127,1120316,79.80%,106911,9.50%,1120493.346,9.54293253,FALSE
+Arunachal East,2,GEN,Arunachal Pradesh,ninong ering,indian national congress,312872,261291,83.50%,12478,4.80%,261248.12,4.775518483,FALSE
+Arunachal West,1,GEN,Arunachal Pradesh,kiren rijiju,bharatiya janta party,446515,335665,75.20%,41738,12.40%,335779.28,12.43442122,FALSE
+Autonomous District,3,ST,Assam,biren singh engti,indian national congress,701890,543280,77.40%,24095,4.40%,543262.86,4.435097924,FALSE
+Barpeta,6,GEN,Assam,siraj uddin ajmal,all india united democratic front,1430175,1205863,84.30%,42341,3.50%,1205637.525,3.51126123,FALSE
+Dhubri,4,GEN,Assam,badruddin ajmal,all india united democratic front,1552554,1369624,88.20%,229730,16.80%,1369352.628,16.77321659,FALSE
+Dibrugarh,13,GEN,Assam,rameswar teli,bharatiya janta party,1124305,890968,79.30%,185347,20.80%,891573.865,20.80287956,FALSE
+Gauhati,7,GEN,Assam,bijoya chakravarty,bharatiya janta party,1922270,1511729,78.60%,315784,20.90%,1510904.22,20.88892917,FALSE
+Jorhat,12,GEN,Assam,kamakhya prasad tasa,bharatiya janta party,1234448,931336,75.50%,102420,11.00%,932008.24,10.99710523,FALSE
+Kaliabor,11,GEN,Assam,gourav gogoi,indian national congress,1457865,1166490,80.00%,93874,8.00%,1166292,8.047561488,FALSE
+Karimganj,1,SC,Assam,radheshyam biswas,all india united democratic front,1165997,886920,76.10%,102094,11.50%,887323.717,11.51107202,FALSE
+Kokrajhar,5,ST,Assam,naba kumar sarania (hira),independent,1505476,1223869,81.30%,355779,29.10%,1223951.988,29.07002302,FALSE
+Lakhimpur,14,GEN,Assam,sarbananda sonowal,bharatiya janta party,1430994,1111975,77.70%,292138,26.30%,1111882.338,26.27199353,FALSE
+Mangaldoi,8,GEN,Assam,ramen deka,bharatiya janta party,1515676,1233237,81.40%,22884,1.90%,1233760.264,1.855604397,FALSE
+Nawgong,10,GEN,Assam,rajen gohain,bharatiya janta party,1523881,1230074,80.70%,143559,11.70%,1229771.967,11.67076127,FALSE
+Silchar,2,GEN,Assam,sushmita dev,indian national congress,1060175,799830,75.40%,35241,4.40%,799371.95,4.406061288,FALSE
+Tezpur,9,GEN,Assam,ram prasad sarmah,bharatiya janta party,1259568,980688,77.90%,86020,8.80%,981203.472,8.771393144,FALSE
+Araria,9,GEN,bihar,tasleem uddin,rashtriya janata dal,1587348,975811,61.50%,146504,15.00%,976219.02,15.01356308,FALSE
+Arrah,32,GEN,bihar,raj kumar singh,bharatiya janta party,1832332,893213,48.80%,135870,15.20%,894178.016,15.21137735,FALSE
+Aurangabad,37,GEN,bihar,sushil kumar singh,bharatiya janta party,1536153,786274,51.20%,66347,8.40%,786510.336,8.438152603,FALSE
+Banka,27,GEN,bihar,jai prakash narayan yadav,rashtriya janata dal,1549456,899353,58.00%,10144,1.10%,898684.48,1.127921962,FALSE
+Begusarai,24,GEN,bihar,bhola singh,bharatiya janta party,1778759,1077855,60.60%,58335,5.40%,1077927.954,5.412137996,FALSE
+Bhagalpur,26,GEN,bihar,shailesh kumar urph bulo mandal,rashtriya janata dal,1685339,974016,57.80%,9485,1.00%,974125.942,0.973803305,FALSE
+Buxar,33,GEN,bihar,ashwini kumar choubey,bharatiya janta party,1640567,888204,54.10%,132338,14.90%,887546.747,14.89950507,FALSE
+Darbhanga,14,GEN,bihar,kirti azad,bharatiya janta party,1495446,828342,55.40%,35043,4.20%,828477.084,4.230498997,FALSE
+Gaya,38,SC,bihar,hari manjhi,bharatiya janta party,1500751,809378,53.90%,115504,14.30%,808904.789,14.27071158,FALSE
+Gopalganj,17,SC,bihar,janak ram,bharatiya janta party,1652767,903583,54.70%,286936,31.80%,904063.549,31.75535618,FALSE
+Hajipur,21,SC,bihar,ramvilas paswan,lok jan shakti party,1649547,904753,54.90%,225500,24.90%,905601.303,24.92392951,FALSE
+Jahanabad,36,GEN,bihar,dr. arun kumar,rashtriya lok samta party,1423246,811516,57.00%,42340,5.20%,811250.22,5.21739559,FALSE
+Jamui,40,SC,bihar,chirag kumar paswan,lok jan shakti party,1550936,775639,50.00%,85947,11.10%,775468,11.08079919,FALSE
+Jhanjharpur,7,GEN,bihar,birendra kumar chaudhary,bharatiya janta party,1650753,941249,57.00%,55408,5.90%,940929.21,5.88664636,FALSE
+Karakat,35,GEN,bihar,upendra kushwaha,rashtriya lok samta party,1569989,789927,50.30%,105241,13.30%,789704.467,13.32287667,FALSE
+Katihar,11,GEN,bihar,tariq anwar,nationalist congress party,1446478,977830,67.60%,114740,11.70%,977819.128,11.73414602,FALSE
+Khagaria,25,GEN,bihar,choudhary mahboob ali kaiser,lok jan shakti party,1492068,896231,60.10%,76003,8.50%,896732.868,8.480291353,FALSE
+Kishanganj,10,GEN,bihar,mohammad asrarul haque,indian national congress,1438990,928490,64.50%,194612,21.00%,928148.55,20.96005342,FALSE
+Madhepura,13,GEN,bihar,rajesh ranjan @ pappu yadav,rashtriya janata dal,1725578,1034799,60.00%,56209,5.40%,1035346.8,5.431876142,FALSE
+Madhubani,6,GEN,bihar,hukm deo narayan yadav,bharatiya janta party,1627969,860453,52.90%,20535,2.40%,861195.601,2.386533605,FALSE
+Maharajganj,19,GEN,bihar,janardan singh sigriwal,bharatiya janta party,1644524,846654,51.50%,38415,4.50%,846929.86,4.537272605,FALSE
+Munger,28,GEN,bihar,veena devi,lok jan shakti party,1696546,914350,53.90%,109084,11.90%,914438.294,11.93022366,FALSE
+Muzaffarpur,15,GEN,bihar,ajay nishad,bharatiya janta party,1551363,948887,61.20%,222422,23.40%,949434.156,23.44030427,FALSE
+Nalanda,29,GEN,bihar,kaushlendra kumar,janata dal (united),1951967,921761,47.20%,9627,1.00%,921328.424,1.044413899,FALSE
+Nawada,39,GEN,bihar,giriraj singh,bharatiya janta party,1675789,884441,52.80%,140157,15.80%,884816.592,15.8469587,FALSE
+Paschim Champaran,2,GEN,bihar,dr. sanjay jaiswal,bharatiya janta party,1413073,854800,60.50%,110254,12.90%,854909.165,12.89822181,FALSE
+Pataliputra,31,GEN,bihar,ram kripal yadav,bharatiya janta party,1736074,978649,56.40%,40322,4.10%,979145.736,4.120169744,FALSE
+Patna Sahib,30,GEN,bihar,shatrughana sinha,bharatiya janta party,1946249,882262,45.30%,265805,30.10%,881650.797,30.12767183,FALSE
+Purnia,12,GEN,bihar,santosh kumar,janata dal (united),1582967,1017732,64.30%,116669,11.50%,1017847.781,11.46362697,FALSE
+Purvi Champaran,3,GEN,bihar,radha mohan singh,bharatiya janta party,1452963,822671,56.60%,192163,23.40%,822377.058,23.35842639,FALSE
+Samastipur,23,SC,bihar,ram chandra paswan,lok jan shakti party,1503005,863199,57.40%,6872,0.80%,862724.87,0.796108429,FALSE
+Saran,20,GEN,bihar,rajiv pratap rudy,bharatiya janta party,1538744,863254,56.10%,40948,4.70%,863235.384,4.743447467,FALSE
+Sasaram,34,SC,bihar,chhedi paswan,bharatiya janta party,1607747,846788,52.70%,63327,7.50%,847282.669,7.478495208,FALSE
+Sheohar,4,GEN,bihar,rama devi,bharatiya janta party,1489724,842894,56.60%,136239,16.20%,843183.784,16.16324235,FALSE
+Sitamarhi,5,GEN,bihar,ram kumar sharma,rashtriya lok samta party,1574914,900588,57.20%,147965,16.40%,900850.808,16.42982141,FALSE
+Siwan,18,GEN,bihar,om prakash yadav,bharatiya janta party,1563860,884021,56.50%,113847,12.90%,883580.9,12.87831398,FALSE
+Supaul,8,GEN,bihar,ranjeet ranjan,indian national congress,1525592,970528,63.60%,59672,6.10%,970276.512,6.148405816,FALSE
+Ujiarpur,22,GEN,bihar,nityanand rai,bharatiya janta party,1428445,858920,60.10%,60469,7.00%,858495.445,7.040120151,FALSE
+Vaishali,16,GEN,bihar,rama kishore singh,lok jan shakti party,1587202,925937,58.30%,99267,10.70%,925338.766,10.72070778,FALSE
+Valmiki Nagar,1,GEN,bihar,satish chandra dubey,bharatiya janta party,1456576,900114,61.80%,117793,13.10%,900163.968,13.08645349,FALSE
+Chandigarh,1,GEN,Chandigarh,kher kirron anupam,bharatiya janta party,615214,453455,73.70%,69642,15.40%,453412.718,15.35808404,FALSE
+Bastar,10,ST,Chhattisgarh,dinesh kashyap,bharatiya janta party,1298059,769913,59.30%,124359,16.20%,769748.987,16.15234449,FALSE
+Bilaspur,5,GEN,Chhattisgarh,lakhan lal sahu,bharatiya janta party,1727325,1090457,63.10%,176436,16.20%,1089942.075,16.18000526,FALSE
+Durg,7,GEN,Chhattisgarh,tamradhwaj sahu,indian national congress,1855781,1258342,67.80%,16848,1.30%,1258219.518,1.338904686,FALSE
+Janjgir-Champa,3,SC,Chhattisgarh,kamla patle,bharatiya janta party,1737532,1073347,61.80%,174961,16.30%,1073794.776,16.30050673,FALSE
+Kanker,11,ST,Chhattisgarh,vikram dev usendi,bharatiya janta party,1447774,1016943,70.20%,35158,3.50%,1016337.348,3.45722425,FALSE
+Korba,4,GEN,Chhattisgarh,dr. banshilal mahto,bharatiya janta party,1419610,1052720,74.20%,4265,0.40%,1053350.62,0.405140968,FALSE
+Mahasamund,9,GEN,Chhattisgarh,chandu lal sahu (chandu bhaiya),bharatiya janta party,1515747,1131209,74.60%,1217,0.10%,1130747.262,0.10758401,FALSE
+Raigarh,2,ST,Chhattisgarh,vishnu deo sai,bharatiya janta party,1605824,1246186,77.60%,216750,17.40%,1246119.424,17.39306973,FALSE
+Raipur,8,GEN,Chhattisgarh,ramesh bais,bharatiya janta party,1904230,1250845,65.70%,171646,13.70%,1251079.11,13.72240366,FALSE
+Rajnandgaon,6,GEN,Chhattisgarh,abhishek singh,bharatiya janta party,1588095,1178296,74.20%,235911,20.00%,1178366.49,20.02136984,FALSE
+Surguja,1,ST,Chhattisgarh,kamalbhan singh marabi,bharatiya janta party,1523072,1187321,78.00%,147236,12.40%,1187996.16,12.40069029,FALSE
+Dadra And Nagar Haveli,1,GEN,Dadra and Nagar Haveli,patel natubhai gomanbhai,bharatiya janta party,196617,165286,84.10%,6214,3.80%,165354.897,3.759544063,FALSE
+Daman And Diu,1,GEN,Daman and Diu,patel lalubhai babubhai,bharatiya janta party,111827,87233,78.00%,9222,10.60%,87225.06,10.57168732,FALSE
+Chandni Chowk,1,GEN,NCT of Delhi,dr. harsh vardhan,bharatiya janta party,1447228,981863,67.80%,136320,13.90%,981220.584,13.88381067,FALSE
+East Delhi,3,GEN,NCT of Delhi,maheish girri,bharatiya janta party,1829578,1196336,65.40%,190463,15.90%,1196544.012,15.92052734,FALSE
+New Delhi,4,GEN,NCT of Delhi,meenakashi lekhi,bharatiya janta party,1490147,969812,65.10%,162708,16.80%,970085.697,16.7772723,FALSE
+North East Delhi,2,GEN,NCT of Delhi,manoj tiwari,bharatiya janta party,1957707,1317338,67.30%,144084,10.90%,1317536.811,10.93751186,FALSE
+North West Delhi,5,SC,NCT of Delhi,udit raj,bharatiya janta party,2194425,1356036,61.80%,106802,7.90%,1356154.65,7.876044589,FALSE
+South Delhi,7,GEN,NCT of Delhi,ramesh bidhuri,bharatiya janta party,1752741,1102410,62.90%,107000,9.70%,1102474.089,9.706007747,FALSE
+West Delhi,6,GEN,NCT of Delhi,parvesh sahib singh verma,bharatiya janta party,2039410,1347971,66.10%,268586,19.90%,1348050.01,19.92520611,FALSE
+North Goa,1,GEN,Goa,shripad yesso naik,bharatiya janta party,515441,406631,78.90%,105599,26.00%,406682.949,25.96924484,FALSE
+South Goa,2,GEN,Goa,adv. narendra keshav sawaikar,bharatiya janta party,545336,410369,75.30%,32330,7.90%,410638.008,7.878275406,FALSE
+Ahmedabad East,7,GEN,Gujarat,paresh rawal,bharatiya janta party,1601832,985525,61.50%,326633,33.10%,985126.68,33.14304558,FALSE
+Ahmedabad West,8,SC,Gujarat,dr. kirit p solanki,bharatiya janta party,1534400,964609,62.90%,320311,33.20%,965137.6,33.20630432,FALSE
+Amreli,14,GEN,Gujarat,kachhadiya naranbhai bhikhabhai,bharatiya janta party,1486286,808816,54.40%,156232,19.30%,808539.584,19.31613618,FALSE
+Anand,16,GEN,Gujarat,dilip patel,bharatiya janta party,1496859,970894,64.90%,63426,6.50%,971461.491,6.532741988,FALSE
+Banaskantha,2,GEN,Gujarat,chaudhary haribhai parthibhai,bharatiya janta party,1515711,886634,58.50%,202334,22.80%,886690.935,22.82046481,FALSE
+Bardoli,23,ST,Gujarat,vasava parbhubhai nagarbhai,bharatiya janta party,1614106,1206179,74.70%,123884,10.30%,1205737.182,10.27078071,FALSE
+Bharuch,22,GEN,Gujarat,vasava mansukhbhai dhanjibhai,bharatiya janta party,1417548,1060211,74.80%,153273,14.50%,1060325.904,14.45683925,FALSE
+Bhavnagar,15,GEN,Gujarat,dr. bharatiben dhirubhai shiyal,bharatiya janta party,1594531,917402,57.50%,295488,32.20%,916855.325,32.2092169,FALSE
+Chhota Udaipur,21,ST,Gujarat,ramsinh rathwa,bharatiya janta party,1536305,1100542,71.60%,179729,16.30%,1099994.38,16.33095329,FALSE
+Dahod,19,ST,Gujarat,jasvantsinh sumanbhai bhabhor,bharatiya janta party,1411765,900381,63.80%,230354,25.60%,900706.07,25.5840583,FALSE
+Gandhinagar,6,GEN,Gujarat,l.k.advani,bharatiya janta party,1733972,1135495,65.50%,483121,42.50%,1135751.66,42.54717106,FALSE
+Jamnagar,12,GEN,Gujarat,poonamben hematbhai maadam,bharatiya janta party,1470952,852643,58.00%,175289,20.60%,853152.16,20.55831104,FALSE
+Junagadh,13,GEN,Gujarat,chudasama rajeshbhai naranbhai,bharatiya janta party,1485543,941378,63.40%,135832,14.40%,941834.262,14.42906038,FALSE
+Kachchh,1,SC,Gujarat,chavda vinod lakhamashi,bharatiya janta party,1533782,946240,61.70%,254482,26.90%,946343.494,26.89402266,FALSE
+Kheda,17,GEN,Gujarat,chauhan devusinh jesingbhai (chauhan devusinh),bharatiya janta party,1599476,955906,59.80%,232901,24.40%,956486.648,24.36442495,FALSE
+Mahesana,4,GEN,Gujarat,patel jayshreeben kanubhai,bharatiya janta party,1498219,1004258,67.00%,208891,20.80%,1003806.73,20.80053134,FALSE
+Navsari,25,GEN,Gujarat,c. r. patil,bharatiya janta party,1764622,1160747,65.80%,558116,48.10%,1161121.276,48.08248481,FALSE
+Panchmahal,18,GEN,Gujarat,chauhan prabhatsinh pratapsinh,bharatiya janta party,1576667,933461,59.20%,170596,18.30%,933386.864,18.27564301,FALSE
+Patan,3,GEN,Gujarat,liladharbhai khodaji vaghela,bharatiya janta party,1628641,955799,58.70%,138719,14.50%,956012.267,14.51340711,FALSE
+Porbandar,11,GEN,Gujarat,radadiya vithalbhai hansrajbhai,bharatiya janta party,1539223,809433,52.60%,267971,33.10%,809631.298,33.10601372,FALSE
+Rajkot,10,GEN,Gujarat,kundariya mohanbhai kalyanjibhai,bharatiya janta party,1655717,1057069,63.80%,246428,23.30%,1056347.446,23.31238547,FALSE
+Sabarkantha,5,GEN,Gujarat,rathod dipsinh shankarsinh,bharatiya janta party,1615840,1094002,67.70%,84455,7.70%,1093923.68,7.719821353,FALSE
+Surat,24,GEN,Gujarat,darshana vikram jardosh,bharatiya janta party,1484068,947922,63.90%,533190,56.20%,948319.452,56.24829891,FALSE
+Surendranagar,9,GEN,Gujarat,fatepara devajibhai govindbhai,bharatiya janta party,1656657,944677,57.00%,202907,21.50%,944294.49,21.4789817,FALSE
+Vadodara,20,GEN,Gujarat,narendra modi,bharatiya janta party,1638321,1161577,70.90%,570128,49.10%,1161569.589,49.08223906,FALSE
+Valsad,26,ST,Gujarat,dr. k.c.patel,bharatiya janta party,1512061,1122203,74.20%,208004,18.50%,1121949.262,18.53532739,FALSE
+Ambala,1,SC,Haryana,rattan lal kataria,bharatiya janta party,1692227,1218995,72.00%,340074,27.90%,1218403.44,27.8978995,FALSE
+Bhiwani-Mahendragarh,8,GEN,Haryana,dharambir s/o bhale ram,bharatiya janta party,1473912,1030431,69.90%,129394,12.60%,1030264.488,12.55726972,FALSE
+Faridabad,10,GEN,Haryana,krishan pal,bharatiya janta party,1740352,1130726,65.00%,466873,41.30%,1131228.8,41.28966699,FALSE
+Gurgaon,9,GEN,Haryana,inderjit singh rao,bharatiya janta party,1845623,1320619,71.60%,274722,20.80%,1321466.068,20.80251761,FALSE
+Hisar,4,GEN,Haryana,dushyant chautala,indian national lok dal,1517606,1155914,76.20%,31847,2.80%,1156415.772,2.755135763,FALSE
+Karnal,5,GEN,Haryana,ashwini kumar,bharatiya janta party,1684321,1193500,70.90%,360147,30.20%,1194183.589,30.17570172,FALSE
+Kurukshetra,2,GEN,Haryana,raj kumar saini,bharatiya janta party,1498459,1135892,75.80%,129736,11.40%,1135831.922,11.42150838,FALSE
+Rohtak,7,GEN,Haryana,deepender singh hooda,indian national congress,1567504,1044331,66.60%,170627,16.30%,1043957.664,16.33840229,FALSE
+Sirsa,3,SC,Haryana,charanjeet singh rori,indian national lok dal,1660557,1279105,77.00%,115736,9.00%,1278628.89,9.048201672,FALSE
+Sonipat,6,GEN,Haryana,ramesh chander,bharatiya janta party,1417188,985637,69.60%,77414,7.90%,986362.848,7.854210018,FALSE
+Hamirpur,3,GEN,Himachal Pradesh,anurag singh thakur,bharatiya janta party,1247699,835205,66.90%,98403,11.80%,834710.631,11.78189786,FALSE
+Kangra,1,GEN,Himachal Pradesh,shanta kumar,bharatiya janta party,1258601,799445,63.50%,170072,21.30%,799211.635,21.27375867,FALSE
+Mandi,2,GEN,Himachal Pradesh,ram swaroop sharma,bharatiya janta party,1150408,726094,63.10%,39856,5.50%,725907.448,5.489096453,FALSE
+Shimla,4,SC,Himachal Pradesh,virender kashyap,bharatiya janta party,1153363,737757,64.00%,84187,11.40%,738152.32,11.41120992,FALSE
+Anantnag,3,GEN,Jammu and Kashmir,mehbooba mufti,jammu & kashmir peoples democratic party,1301023,375279,28.80%,65417,17.40%,374694.624,17.43156425,FALSE
+Baramulla,1,GEN,Jammu and Kashmir,muzaffar hussain baig,jammu & kashmir peoples democratic party,1190745,465992,39.10%,29219,6.30%,465581.295,6.270279318,FALSE
+Jammu,6,GEN,Jammu and Kashmir,jugal kishore,bharatiya janta party,1848155,1253593,67.80%,257280,20.50%,1253049.09,20.52340752,FALSE
+Ladakh,4,GEN,Jammu and Kashmir,thupstan chhewang,bharatiya janta party,166763,118029,70.80%,36,0.00%,118068.204,0.030500979,FALSE
+Srinagar,2,GEN,Jammu and Kashmir,tariq hameed karra,jammu & kashmir peoples democratic party,1205233,312212,25.90%,42280,13.50%,312155.347,13.54208038,FALSE
+Udhampur,5,GEN,Jammu and Kashmir,dr. jitendra singh,bharatiya janta party,1490244,1041758,69.90%,60976,5.90%,1041680.556,5.853182793,FALSE
+Chatra,4,GEN,Jharkhand,sunil kumar singh,bharatiya janta party,1312545,712971,54.30%,178026,25.00%,712711.935,24.96959904,FALSE
+Dhanbad,7,GEN,Jharkhand,pashupati nath singh,bharatiya janta party,1889994,1143902,60.50%,292954,25.60%,1143446.37,25.610061,FALSE
+Dumka,2,ST,Jharkhand,shibu soren,jharkhand mukti morcha,1247155,903060,72.40%,39030,4.30%,902940.22,4.321971962,FALSE
+Giridih,6,GEN,Jharkhand,ravindra kumar pandey,bharatiya janta party,1515137,969997,64.00%,40313,4.20%,969687.68,4.155992235,FALSE
+Godda,3,GEN,Jharkhand,nishikant dubey,bharatiya janta party,1590628,1049442,66.00%,60682,5.80%,1049814.48,5.782310981,FALSE
+Hazaribagh,14,GEN,Jharkhand,jayant sinha,bharatiya janta party,1518831,967152,63.70%,159128,16.50%,967495.347,16.45325657,FALSE
+Jamshedpur,9,GEN,Jharkhand,bidyut baran mahato,bharatiya janta party,1581665,1049140,66.30%,99876,9.50%,1048643.895,9.519797167,FALSE
+Khunti,11,ST,Jharkhand,karia munda,bharatiya janta party,1111852,736955,66.30%,92248,12.50%,737157.876,12.51745358,FALSE
+Kodarma,5,GEN,Jharkhand,ravindra kr. ray,bharatiya janta party,1639629,1024906,62.50%,98654,9.60%,1024768.125,9.625663232,FALSE
+Lohardaga,12,ST,Jharkhand,sudarshan bhagat,bharatiya janta party,1119144,651460,58.20%,6489,1.00%,651341.808,0.996070365,FALSE
+Palamau,13,SC,Jharkhand,vishnu dayal ram,bharatiya janta party,1645957,977323,59.40%,263942,27.00%,977698.458,27.00662933,FALSE
+Rajmahal,1,ST,Jharkhand,vijay kumar hansdak,jharkhand mukti morcha,1353172,951563,70.30%,41337,4.30%,951279.916,4.344115944,FALSE
+Ranchi,8,GEN,Jharkhand,ram tahal choudhary,bharatiya janta party,1648464,1049783,63.70%,199303,19.00%,1050071.568,18.9851617,FALSE
+Singhbhum,10,ST,Jharkhand,laxman giluwa,bharatiya janta party,1152570,795286,69.00%,87524,11.00%,795273.3,11.00534902,FALSE
+Bagalkot,3,GEN,Karnataka,gaddigoudar parvtagouda chandanagouda,bharatiya janta party,1568620,1079310,68.80%,116560,10.80%,1079210.56,10.79949227,FALSE
+Bangalore Central,25,GEN,Karnataka,p.c. mohan,bharatiya janta party,1931663,1074589,55.60%,137500,12.80%,1074004.628,12.79558976,FALSE
+Bangalore North,24,GEN,Karnataka,d.v sadananda gowda,bharatiya janta party,2401472,1356718,56.50%,229764,16.90%,1356831.68,16.93528058,FALSE
+Bangalore Rural,23,GEN,Karnataka,d k suresh,indian national congress,2190397,1455244,66.40%,231480,15.90%,1454423.608,15.90661085,FALSE
+Bangalore South,26,GEN,Karnataka,ananth kumar,bharatiya janta party,1999882,1113726,55.70%,228575,20.50%,1113934.274,20.52345011,FALSE
+Belgaum,2,GEN,Karnataka,angadi suresh channabasappa,bharatiya janta party,1581017,1078547,68.20%,75860,7.00%,1078253.594,7.033536786,FALSE
+Bellary,9,ST,Karnataka,b. sreeramulu,bharatiya janta party,1487945,1045772,70.30%,85144,8.10%,1046025.335,8.14173644,FALSE
+Bidar,7,GEN,Karnataka,bhagwanth khuba,bharatiya janta party,1600962,959384,59.90%,92222,9.60%,958976.238,9.612626435,FALSE
+Bijapur,4,SC,Karnataka,ramesh jigajinagi,bharatiya janta party,1622635,966757,59.60%,69819,7.20%,967090.46,7.221980291,FALSE
+Chamarajanagar,22,SC,Karnataka,r. dhruvanarayana,indian national congress,1555779,1133029,72.80%,141182,12.50%,1132607.112,12.46058133,FALSE
+Chikkballapur,27,GEN,Karnataka,m veerappa moily,indian national congress,1658342,1263274,76.20%,9520,0.80%,1263656.604,0.753597399,FALSE
+Chikkodi,1,GEN,Karnataka,prakash babanna hukkeri,indian national congress,1442296,1071103,74.30%,3003,0.30%,1071625.928,0.280365194,FALSE
+Chitradurga,18,SC,Karnataka,b.n.chandrappa,indian national congress,1661272,1096499,66.00%,101291,9.20%,1096439.52,9.237673723,FALSE
+Dakshina Kannada,17,GEN,Karnataka,nalin kumar kateel,bharatiya janta party,1565281,1207474,77.10%,143709,11.90%,1206831.651,11.90162273,FALSE
+Davanagere,13,GEN,Karnataka,g m siddeshwara,bharatiya janta party,1522712,1114868,73.20%,17607,1.60%,1114625.184,1.579290104,FALSE
+Dharwad,11,GEN,Karnataka,pralhad joshi,bharatiya janta party,1579024,1041226,65.90%,113657,10.90%,1040576.816,10.91568977,FALSE
+Gulbarga,5,SC,Karnataka,mallikarjun kharge,indian national congress,1721990,997638,57.90%,74733,7.50%,997032.21,7.490993727,FALSE
+Hassan,16,GEN,Karnataka,h.d. devegowda,janata dal (secular),1561336,1147172,73.50%,100462,8.80%,1147581.96,8.757361581,FALSE
+Haveri,10,GEN,Karnataka,udasi shivakumar channabasappa,bharatiya janta party,1558749,1115968,71.60%,87571,7.80%,1116064.284,7.847088805,FALSE
+Kolar,28,SC,Karnataka,k.h.muniyappa,indian national congress,1492975,1127323,75.50%,47850,4.20%,1127196.125,4.24456877,FALSE
+Koppal,8,GEN,Karnataka,karadi sanganna amarappa,bharatiya janta party,1535105,1006508,65.60%,32414,3.20%,1007028.88,3.220441368,FALSE
+Mandya,20,GEN,Karnataka,c.s.puttaraju,janata dal (secular),1669262,1192638,71.50%,5518,0.50%,1193522.33,0.462671825,FALSE
+Mysore,21,GEN,Karnataka,prathap simha,bharatiya janta party,1723134,1159594,67.30%,31608,2.70%,1159669.182,2.72578161,FALSE
+Raichur,6,ST,Karnataka,b.v.nayak,indian national congress,1661606,968889,58.30%,1499,0.20%,968716.298,0.154713285,FALSE
+Shimoga,14,GEN,Karnataka,b. s. yeddyurappa,bharatiya janta party,1562241,1129008,72.30%,363305,32.20%,1129500.243,32.17913425,FALSE
+Tumkur,19,GEN,Karnataka,muddahanumegowda.s.p.,indian national congress,1518518,1101484,72.50%,74041,6.70%,1100925.55,6.721931503,FALSE
+Udupi,15,GEN,Karnataka,shobha karandlaje,bharatiya janta party,1387295,1034108,74.50%,181643,17.60%,1033534.775,17.56518661,FALSE
+Uttara Kannada,12,GEN,Karnataka,anantkumar hegde,bharatiya janta party,1450599,1001038,69.00%,140700,14.10%,1000913.31,14.05541048,FALSE
+Alappuzha,15,GEN,Kerala,k c venugopal,indian national congress,1271324,997464,78.50%,19407,1.90%,997989.34,1.945634128,FALSE
+Alathur,9,SC,Kerala,p.k.biju,communist party of india (marxist),1216351,927228,76.20%,37312,4.00%,926859.462,4.024037238,FALSE
+Attingal,19,GEN,Kerala,dr.a .sampath,communist party of india (marxist),1251398,859350,68.70%,69378,8.10%,859710.426,8.073311224,FALSE
+Chalakudy,11,GEN,Kerala,innocent,independent,1150491,884033,76.80%,13884,1.60%,883577.088,1.570529607,FALSE
+Ernakulam,12,GEN,Kerala,prof. k.v. thomas,indian national congress,1156467,850834,73.60%,87047,10.20%,851159.712,10.23078532,FALSE
+Idukki,13,GEN,Kerala,adv.joice george,independent,1158735,819766,70.80%,50542,6.20%,820384.38,6.165417936,FALSE
+Kannur,2,GEN,Kerala,p k sreemathi teacher,communist party of india (marxist),1170266,947117,80.90%,6566,0.70%,946745.194,0.693261762,FALSE
+Kasaragod,1,GEN,Kerala,p karunakaran,communist party of india (marxist),1243730,974215,78.30%,6921,0.70%,973840.59,0.710418132,FALSE
+Kollam,18,GEN,Kerala,n.k.premachandran,revolutionary socialist party,1219415,879056,72.10%,37649,4.30%,879198.215,4.282889827,FALSE
+Kottayam,14,GEN,Kerala,jose k. mani,kerala congress(m),1161463,831636,71.60%,120599,14.50%,831607.508,14.50141649,FALSE
+Kozhikode,5,GEN,Kerala,m .k raghavan,indian national congress,1182484,943009,79.80%,16883,1.80%,943622.232,1.79033286,FALSE
+Malappuram,6,GEN,Kerala,e. ahamed,indian union muslim league,1198444,853467,71.20%,194739,22.80%,853292.128,22.81740243,FALSE
+Mavelikkara,16,SC,Kerala,kodikunnil suresh,indian national congress,1252668,889060,71.00%,32737,3.70%,889394.28,3.682203676,FALSE
+Palakkad,8,GEN,Kerala,m b rajesh,communist party of india (marxist),1208758,910322,75.30%,105300,11.60%,910194.774,11.56733551,FALSE
+Pathanamthitta,17,GEN,Kerala,anto antony,indian national congress,1323906,869452,65.70%,56191,6.50%,869806.242,6.462806457,FALSE
+Ponnani,7,GEN,Kerala,e. t. mohammed basheer,indian union muslim league,1180789,871592,73.80%,25410,2.90%,871422.282,2.915354891,FALSE
+Thiruvananthapuram,20,GEN,Kerala,dr. shashi tharoor,indian national congress,1272748,873439,68.60%,15470,1.80%,873105.128,1.771159749,FALSE
+Thrissur,10,GEN,Kerala,c. n. jayadevan,communist party of india,1275288,920505,72.20%,38227,4.20%,920757.936,4.152829154,FALSE
+Vadakara,3,GEN,Kerala,mullappally ramachandran,indian national congress,1182504,959342,81.10%,3306,0.30%,959010.744,0.344611202,FALSE
+Wayanad,4,GEN,Kerala,m i shanavas,indian national congress,1249420,915006,73.20%,20870,2.30%,914575.44,2.28085936,FALSE
+Lakshadweep,1,ST,Lakshadweep,mohammed faizal p.p.,nationalist congress party,49922,43239,86.60%,1535,3.60%,43232.452,3.550035847,FALSE
+Balaghat,15,GEN,Madhya Pradesh,bodhsingh bhagat,bharatiya janta party,1629769,1113364,68.30%,96041,8.60%,1113132.227,8.626199518,FALSE
+Betul,29,ST,Madhya Pradesh,jyoti dhurve,bharatiya janta party,1607822,1047719,65.20%,328614,31.40%,1048299.944,31.36470752,FALSE
+Bhind,2,SC,Madhya Pradesh,dr. bhagirath prasad,bharatiya janta party,1598169,729084,45.60%,159961,21.90%,728765.064,21.93999594,FALSE
+Bhopal,19,GEN,Madhya Pradesh,alok sanjar,bharatiya janta party,1956936,1130182,57.80%,370696,32.80%,1131109.008,32.79967297,FALSE
+Chhindwara,16,GEN,Madhya Pradesh,kamal nath,indian national congress,1401277,1107498,79.00%,116537,10.50%,1107008.83,10.52254722,FALSE
+Damoh,7,GEN,Madhya Pradesh,prahalad singh patel,bharatiya janta party,1651106,912080,55.20%,213299,23.40%,911410.512,23.38599684,FALSE
+Dewas,21,SC,Madhya Pradesh,manohar untwal,bharatiya janta party,1617215,1143968,70.70%,260313,22.80%,1143371.005,22.75526938,FALSE
+Dhar,25,ST,Madhya Pradesh,savitri thakur,bharatiya janta party,1668441,1076816,64.50%,104328,9.70%,1076144.445,9.68856332,FALSE
+Guna,4,GEN,Madhya Pradesh,jyotiraditya m scindia,indian national congress,1605619,976629,60.80%,120792,12.40%,976216.352,12.36825857,FALSE
+Gwalior,3,GEN,Madhya Pradesh,narendra singh tomar,bharatiya janta party,1877003,990912,52.80%,29699,3.00%,991057.584,2.99713799,FALSE
+Hoshangabad,17,GEN,Madhya Pradesh,uday pratap singh,bharatiya janta party,1568127,1031175,65.80%,389960,37.80%,1031827.566,37.81705336,FALSE
+Indore,26,GEN,Madhya Pradesh,sumitra mahajan (tai),bharatiya janta party,2115303,1316817,62.30%,466901,35.50%,1317833.769,35.45678709,FALSE
+Jabalpur,13,GEN,Madhya Pradesh,rakesh singh,bharatiya janta party,1711683,1002184,58.60%,208639,20.80%,1003046.238,20.81843254,FALSE
+Khajuraho,8,GEN,Madhya Pradesh,nagendra singh,bharatiya janta party,1702794,874477,51.40%,247490,28.30%,875236.116,28.30148763,FALSE
+Khandwa,28,GEN,Madhya Pradesh,nandkumar singh chouhan (nandu bhaiya),bharatiya janta party,1759410,1257327,71.50%,259714,20.70%,1257978.15,20.65604254,FALSE
+Khargone,27,ST,Madhya Pradesh,subhash patel,bharatiya janta party,1703271,1152525,67.70%,257879,22.40%,1153114.467,22.37513286,FALSE
+Mandla,14,ST,Madhya Pradesh,faggan singh kulaste,bharatiya janta party,1824424,1218518,66.80%,110469,9.10%,1218715.232,9.065848843,FALSE
+Mandsour,23,GEN,Madhya Pradesh,sudhir gupta,bharatiya janta party,1626571,1161349,71.40%,303649,26.10%,1161371.694,26.14623167,FALSE
+Morena,1,GEN,Madhya Pradesh,anoop mishra,bharatiya janta party,1702492,854279,50.20%,132981,15.60%,854650.984,15.56646014,FALSE
+Rajgarh,20,GEN,Madhya Pradesh,rodmal nagar,bharatiya janta party,1578748,1010724,64.00%,228737,22.60%,1010398.72,22.6310051,FALSE
+Ratlam,24,ST,Madhya Pradesh,dileepsingh bhuria,bharatiya janta party,1702648,1082681,63.60%,108447,10.00%,1082884.128,10.0165238,FALSE
+Rewa,10,GEN,Madhya Pradesh,janardan mishra,bharatiya janta party,1544719,830002,53.70%,168726,20.30%,829514.103,20.32838475,FALSE
+Sagar,5,GEN,Madhya Pradesh,laxmi narayan yadav,bharatiya janta party,1520184,891929,58.70%,120737,13.50%,892348.008,13.53661558,FALSE
+Satna,9,GEN,Madhya Pradesh,ganesh singh,bharatiya janta party,1458084,913444,62.70%,8688,1.00%,914218.668,0.95112563,FALSE
+Shahdol,12,ST,Madhya Pradesh,dalpat singh paraste,bharatiya janta party,1561321,968518,62.00%,241301,24.90%,968019.02,24.91445693,FALSE
+Sidhi,11,GEN,Madhya Pradesh,riti pathak,bharatiya janta party,1736050,989396,57.00%,108046,10.90%,989548.5,10.92039992,FALSE
+Tikamgarh,6,SC,Madhya Pradesh,dr. virendra kumar,bharatiya janta party,1529003,766321,50.10%,208731,27.20%,766030.503,27.23806342,FALSE
+Ujjain,22,SC,Madhya Pradesh,prof. chintamani malviya,bharatiya janta party,1525481,1016405,66.60%,309663,30.50%,1015970.346,30.46649711,FALSE
+Vidisha,18,GEN,Madhya Pradesh,sushma swaraj,bharatiya janta party,1634370,1073473,65.70%,410698,38.30%,1073781.09,38.25881042,FALSE
+Ahmednagar,37,GEN,Maharashtra,gandhi dilipkumar mansukhlal,bharatiya janta party,1699408,1062318,62.50%,209122,19.70%,1062130,19.68544259,FALSE
+Akola,6,GEN,Maharashtra,dhotre sanjay shamrao,bharatiya janta party,1646463,978491,59.40%,203116,20.80%,977999.022,20.75808566,FALSE
+Amravati,7,SC,Maharashtra,adsul anandrao vithoba,shiv sena,1611365,1004061,62.30%,137932,13.70%,1003880.395,13.73741237,FALSE
+Aurangabad,19,GEN,Maharashtra,chandrakant bhaurao khaire,shiv sena,1589393,982933,61.80%,162000,16.50%,982244.874,16.48128611,FALSE
+Baramati,35,GEN,Maharashtra,supriya sule,nationalist congress party,1813543,1066556,58.80%,69719,6.50%,1066363.284,6.536834447,FALSE
+Beed,39,GEN,Maharashtra,munde gopinathrao pandurang,bharatiya janta party,1792650,1232202,68.70%,136454,11.10%,1231550.55,11.07399598,FALSE
+Bhandara-Gondiya,11,GEN,Maharashtra,nanabhau falgunrao patole,bharatiya janta party,1656284,1197196,72.30%,149254,12.50%,1197493.332,12.46696447,FALSE
+Bhiwandi,23,GEN,Maharashtra,kapil moreshwar patil,bharatiya janta party,1696589,875605,51.60%,109450,12.50%,875439.924,12.49992862,FALSE
+Buldhana,5,GEN,Maharashtra,jadhav prataprao ganpatrao,shiv sena,1596234,978626,61.30%,159579,16.30%,978491.442,16.30643371,FALSE
+Chandrapur,13,GEN,Maharashtra,ahir hansraj gangaram,bharatiya janta party,1753690,1109743,63.30%,236269,21.30%,1110085.77,21.2904249,FALSE
+Dhule,2,GEN,Maharashtra,dr. bhamre subhash ramrao,bharatiya janta party,1674469,983083,58.70%,130723,13.30%,982913.303,13.29724957,FALSE
+Dindori,20,ST,Maharashtra,chavan harishchandra deoram,bharatiya janta party,1530139,970182,63.40%,247619,25.50%,970108.126,25.52294312,FALSE
+Gadchiroli-Chimur,12,ST,Maharashtra,ashok mahadeorao nete,bharatiya janta party,1469767,1027129,69.90%,236870,23.10%,1027367.133,23.06136814,FALSE
+Hatkanangle,48,GEN,Maharashtra,raju shetty,swabhimani paksha,1630598,1188871,72.90%,177810,15.00%,1188705.942,14.95620635,FALSE
+Hingoli,15,GEN,Maharashtra,rajeev shankarrao satav,indian national congress,1586194,1051164,66.30%,1632,0.20%,1051646.622,0.155256459,FALSE
+Jalgaon,3,GEN,Maharashtra,a.t. nana patil,bharatiya janta party,1707933,990332,58.00%,383525,38.70%,990601.14,38.72691178,FALSE
+Jalna,18,GEN,Maharashtra,danve raosaheb dadarao,bharatiya janta party,1612054,1066259,66.10%,206798,19.40%,1065567.694,19.39472492,FALSE
+Kalyan,24,GEN,Maharashtra,dr.shrikant eknath shinde,shiv sena,1922046,824196,42.90%,250749,30.40%,824557.734,30.42346723,FALSE
+Kolhapur,47,GEN,Maharashtra,dhananjay bhimrao mahadik,nationalist congress party,1758300,1260289,71.70%,33259,2.60%,1260701.1,2.638997881,FALSE
+Latur,41,SC,Maharashtra,dr. sunil baliram gaikwad,bharatiya janta party,1682607,1057156,62.80%,253395,24.00%,1056677.196,23.9694993,FALSE
+Madha,43,GEN,Maharashtra,mohite patil vijaysinh shankarrao,nationalist congress party,1727308,1079619,62.50%,25344,2.30%,1079567.5,2.347494811,FALSE
+Maval,33,GEN,Maharashtra,appa alias shrirang chandu barne,shiv sena,1953741,1174335,60.10%,157397,13.40%,1174198.341,13.40307493,FALSE
+Mumbai North,26,GEN,Maharashtra,gopal chinayya shetty,bharatiya janta party,1783870,946562,53.10%,446582,47.20%,947234.97,47.17937124,FALSE
+Mumbai North Central,29,GEN,Maharashtra,poonam mahajan alias poonam vajendla rao,bharatiya janta party,1738894,845292,48.60%,186771,22.10%,845102.484,22.09544158,FALSE
+Mumbai North East,28,GEN,Maharashtra,kirit somaiya,bharatiya janta party,1668357,861761,51.70%,317122,36.80%,862540.569,36.79929818,FALSE
+Mumbai North West,27,GEN,Maharashtra,gajanan chandrakant kirtikar,shiv sena,1775428,895517,50.40%,183028,20.40%,894815.712,20.43824964,FALSE
+Mumbai South,31,GEN,Maharashtra,arvind sawant,shiv sena,1485846,780715,52.50%,128148,16.40%,780069.15,16.41418443,FALSE
+Mumbai South Central,30,GEN,Maharashtra,rahul ramesh shewale,shiv sena,1447885,769060,53.10%,138342,18.00%,768826.935,17.98845344,FALSE
+Nagpur,10,GEN,Maharashtra,gadkari nitin jairam,bharatiya janta party,1900787,1085058,57.10%,284828,26.30%,1085349.377,26.25002534,FALSE
+Nanded,16,GEN,Maharashtra,ashok shankarrao chavan,indian national congress,1687057,1013350,60.10%,81455,8.00%,1013921.257,8.038190161,FALSE
+Nandurbar,1,ST,Maharashtra,dr.gavit heena vaijaykumar,bharatiya janta party,1672715,1116676,66.80%,106905,9.60%,1117373.62,9.573502072,FALSE
+Nashik,21,GEN,Maharashtra,godse hemant tukaram,shiv sena,1593237,937405,58.80%,187336,20.00%,936823.356,19.98453177,FALSE
+Osmanabad,40,GEN,Maharashtra,gaikwad ravindra vishwanath,shiv sena,1726793,1118151,64.80%,234325,21.00%,1118961.864,20.95647189,FALSE
+Palghar,22,ST,Maharashtra,adv. chintaman navasha wanga,bharatiya janta party,1578077,992618,62.90%,239520,24.10%,992610.433,24.13012861,FALSE
+Parbhani,17,GEN,Maharashtra,jadhav sanjay (bandu) haribhau,shiv sena,1803792,1162233,64.40%,127155,10.90%,1161642.048,10.94057732,FALSE
+Pune,34,GEN,Maharashtra,anil shirole,bharatiya janta party,1835836,993274,54.10%,315769,31.80%,993187.276,31.79072441,FALSE
+Raigad,32,GEN,Maharashtra,anant geete,shiv sena,1532781,987766,64.40%,2110,0.20%,987110.964,0.213613346,FALSE
+Ramtek,9,SC,Maharashtra,krupal balaji tumane,shiv sena,1677245,1050316,62.60%,175791,16.70%,1049955.37,16.73696297,FALSE
+Ratnagiri-Sindhudurg,46,GEN,Maharashtra,vinayak bhaurao raut,shiv sena,1367361,896256,65.60%,150051,16.70%,896988.816,16.74197997,FALSE
+Raver,4,GEN,Maharashtra,khadase raksha nikhil,bharatiya janta party,1593370,1009213,63.30%,318068,31.50%,1008603.21,31.51643905,FALSE
+Sangli,44,GEN,Maharashtra,sanjaykaka patil,bharatiya janta party,1649107,1046659,63.50%,239292,22.90%,1047182.945,22.86246046,FALSE
+Satara,45,GEN,Maharashtra,shrimant chh. udayanraje pratapsinha bhonsale,nationalist congress party,1719998,976681,56.80%,366594,37.50%,976958.864,37.53467099,FALSE
+Shirdi,38,SC,Maharashtra,lokhande sadashiv kisan,shiv sena,1459712,932645,63.90%,199922,21.40%,932755.968,21.43602335,FALSE
+Shirur,36,GEN,Maharashtra,adhalrao shivaji dattatrey,shiv sena,1824112,1089506,59.70%,301814,27.70%,1088994.864,27.70191261,FALSE
+Solapur,42,SC,Maharashtra,sharad bansode,bharatiya janta party,1702755,951201,55.90%,149674,15.70%,951840.045,15.73526521,FALSE
+Thane,25,GEN,Maharashtra,vichare rajan baburao,shiv sena,2073442,1054189,50.80%,281299,26.70%,1053308.536,26.6839248,FALSE
+Wardha,8,GEN,Maharashtra,ramdas chandrabhanji tadas,bharatiya janta party,1564553,1013445,64.80%,215783,21.30%,1013830.344,21.29202867,FALSE
+Yavatmal-Washim,14,GEN,Maharashtra,gawali bhavana pundlikrao,shiv sena,1743498,1032949,59.30%,93816,9.10%,1033894.314,9.082345789,FALSE
+Inner Manipur,1,GEN,Manipur,dr. thokchom meinya,indian national congress,855359,640871,74.90%,94674,14.80%,640663.891,14.77270777,FALSE
+Outer Manipur,2,ST,Manipur,thangso baite,indian national congress,918966,771766,84.00%,15637,2.00%,771931.44,2.026132273,FALSE
+Shillong,1,ST,Meghalaya,vincent h. pala,indian national congress,980740,619987,63.20%,40379,6.50%,619827.68,6.512878496,FALSE
+Tura,2,ST,Meghalaya,purno agitok sangma,national people's party,586501,458071,78.10%,39716,8.70%,458057.281,8.670271639,FALSE
+Mizoram,1,ST,Mizoram,c. l. ruala,indian national congress,702170,433201,61.70%,6154,1.40%,433238.89,1.420587672,FALSE
+Nagaland,1,ST,Nagaland,neiphiu rio,naga peoples front,1182948,1038910,87.80%,400225,38.50%,1038628.344,38.52354872,FALSE
+Aska,19,GEN,Odisha,ladu kishore swain,biju janata dal,1408780,896281,63.60%,311997,34.80%,895984.08,34.81017672,FALSE
+Balasore,6,GEN,Odisha,rabindra kumar jena,biju janata dal,1366218,1049450,76.80%,141825,13.50%,1049255.424,13.51422174,FALSE
+Bargarh,1,GEN,Odisha,prabhas kumar singh,biju janata dal,1430717,1123301,78.50%,11178,1.00%,1123112.845,0.995102826,FALSE
+Berhampur,20,GEN,Odisha,sidhant mohapatra,biju janata dal,1334268,905362,67.90%,127720,14.10%,905967.972,14.10706436,FALSE
+Bhadrak,7,SC,Odisha,arjun charan sethi,biju janata dal,1469498,1081339,73.60%,179359,16.60%,1081550.528,16.58675032,FALSE
+Bhubaneswar,18,GEN,Odisha,prasanna kumar patasani,biju janata dal,1527768,891822,58.40%,189477,21.20%,892216.512,21.24605583,FALSE
+Bolangir,10,GEN,Odisha,kalikesh narayan singh deo,biju janata dal,1563025,1170405,74.90%,104299,8.90%,1170705.725,8.911359743,FALSE
+Cuttack,14,GEN,Odisha,bhartruhari mahatab,biju janata dal,1371617,978604,71.40%,306762,31.30%,979334.538,31.34689823,FALSE
+Dhenkanal,9,GEN,Odisha,tathagata satpathy,biju janata dal,1363467,1042101,76.40%,137340,13.20%,1041688.788,13.17914482,FALSE
+Jagatsinghpur,16,SC,Odisha,kulamani samal,biju janata dal,1499673,1131932,75.50%,276394,24.40%,1132253.115,24.41789789,FALSE
+Jajpur,8,SC,Odisha,rita tarai,biju janata dal,1303733,980435,75.20%,320271,32.70%,980407.216,32.66621449,FALSE
+Kalahandi,11,GEN,Odisha,arka keshari deo,biju janata dal,1474135,1117536,75.80%,56347,5.00%,1117394.33,5.042074707,FALSE
+Kandhamal,13,GEN,Odisha,hemendra chandra singh,biju janata dal,1143602,839415,73.40%,181017,21.60%,839403.868,21.5646611,FALSE
+Kendrapara,15,GEN,Odisha,baijayant panda,biju janata dal,1555444,1140999,73.40%,209108,18.30%,1141695.896,18.326747,FALSE
+Keonjhar,4,ST,Odisha,sakuntala laguri,biju janata dal,1346683,1083869,80.50%,157317,14.50%,1084079.815,14.51439242,FALSE
+Koraput,21,ST,Odisha,jhina hikaka,biju janata dal,1300437,989444,76.10%,19328,2.00%,989632.557,1.953420305,FALSE
+Mayurbhanj,5,ST,Odisha,rama chandra hansdah,biju janata dal,1327555,1053399,79.40%,122866,11.70%,1054078.67,11.66376653,FALSE
+Nabarangpur,12,ST,Odisha,balabhadra majhi,biju janata dal,1297210,1022172,78.80%,2042,0.20%,1022201.48,0.199770684,FALSE
+Puri,17,GEN,Odisha,pinaki misra,biju janata dal,1404581,1039389,74.00%,263361,25.30%,1039389.94,25.33805919,FALSE
+Sambalpur,3,GEN,Odisha,nagendra kumar pradhan,biju janata dal,1297098,984309,75.90%,30576,3.10%,984497.382,3.106341606,FALSE
+Sundargarh,2,ST,Odisha,jual @ juel oram,bharatiya janta party,1410532,1010711,71.70%,18829,1.90%,1011351.444,1.862945986,FALSE
+puducherry,1,GEN,Puducherry,r. radhakrishnan,all india n.r. congress,901357,740017,82.10%,60854,8.20%,740014.097,8.223324599,FALSE
+Amritsar,2,GEN,Punjab,captain amarinder singh,indian national congress,1477262,1007196,68.20%,102770,10.20%,1007492.684,10.20357507,FALSE
+Anandpur Sahib,6,GEN,Punjab,prem singh chandumajra,shiromani akali dal,1564721,1086563,69.40%,23697,2.20%,1085916.374,2.180913578,FALSE
+Bathinda,11,GEN,Punjab,harsimrat kaur badal,shiromani akali dal,1525289,1176767,77.20%,19395,1.60%,1177523.108,1.648159746,FALSE
+Faridkot,9,SC,Punjab,prof. sadhu singh,aam aadmi party,1455075,1032107,70.90%,172516,16.70%,1031648.175,16.71493363,FALSE
+Fatehgarh Sahib,8,SC,Punjab,harinder singh khalsa,aam aadmi party,1396957,1030954,73.80%,54144,5.30%,1030954.266,5.251834708,FALSE
+Firozpur,10,GEN,Punjab,sher singh ghubaya,shiromani akali dal,1522111,1105412,72.60%,31420,2.80%,1105052.586,2.842379131,FALSE
+Gurdaspur,1,GEN,Punjab,vinod khanna,bharatiya janta party,1500337,1042699,69.50%,136065,13.00%,1042734.215,13.04930761,FALSE
+Hoshiarpur,5,SC,Punjab,vijay sampla,bharatiya janta party,1485286,961297,64.70%,13582,1.40%,960980.042,1.412882803,FALSE
+Jalandhar,4,SC,Punjab,santokh singh chaudhary,indian national congress,1551497,1040762,67.10%,70981,6.80%,1041054.487,6.82009912,FALSE
+Khadoor Sahib,3,GEN,Punjab,ranjit singh brahmpura,shiromani akali dal,1563256,1040518,66.60%,100569,9.70%,1041128.496,9.6652821,FALSE
+Ludhiana,7,GEN,Punjab,ravneet singh bittu,indian national congress,1561201,1100457,70.50%,19709,1.80%,1100646.705,1.790983201,FALSE
+Patiala,13,GEN,Punjab,dr. dharam vira gandhi,aam aadmi party,1580273,1120933,70.90%,20942,1.90%,1120413.557,1.868265097,FALSE
+Sangrur,12,GEN,Punjab,bhagwant mann,aam aadmi party,1424743,1099467,77.20%,211721,19.30%,1099901.596,19.25669438,FALSE
+Ajmer,13,GEN,Rajasthan,sanwar lal jat,bharatiya janta party,1683292,1156314,68.70%,171983,14.90%,1156421.604,14.87338214,FALSE
+Alwar,8,GEN,Rajasthan,chand nath,bharatiya janta party,1628067,1062305,65.30%,283895,26.70%,1063127.751,26.72443413,FALSE
+Banswara,20,ST,Rajasthan,manshankar ninama,bharatiya janta party,1692502,1171188,69.20%,91916,7.80%,1171211.384,7.848099537,FALSE
+Barmer,17,GEN,Rajasthan,col. sona ram,bharatiya janta party,1677582,1219119,72.70%,87461,7.20%,1219602.114,7.174115078,FALSE
+Bharatpur,9,SC,Rajasthan,bahadur singh,bharatiya janta party,1686897,962432,57.10%,245468,25.50%,963218.187,25.50497074,FALSE
+Bhilwara,23,GEN,Rajasthan,subhash baheria,bharatiya janta party,1754877,1104090,62.90%,246264,22.30%,1103817.633,22.30470342,FALSE
+Bikaner,2,SC,Rajasthan,arjun ram meghwal,bharatiya janta party,1591068,929751,58.40%,308079,33.10%,929183.712,33.135646,FALSE
+Chittorgarh,21,GEN,Rajasthan,chandra prakash joshi,bharatiya janta party,1818147,1172629,64.50%,316857,27.00%,1172704.815,27.02107828,FALSE
+Churu,3,GEN,Rajasthan,rahul kaswan,bharatiya janta party,1753825,1131104,64.50%,294739,26.10%,1131217.125,26.05763926,FALSE
+Dausa,11,ST,Rajasthan,harish chandra meena,bharatiya janta party,1524095,930492,61.10%,45404,4.90%,931222.045,4.879569088,FALSE
+Ganganagar,1,SC,Rajasthan,nihalchand,bharatiya janta party,1718421,1256806,73.10%,291741,23.20%,1256165.751,23.21289045,FALSE
+Jaipur,7,GEN,Rajasthan,ramcharan bohara,bharatiya janta party,1957818,1296806,66.20%,539345,41.60%,1296075.516,41.590261,FALSE
+Jaipur Rural,6,GEN,Rajasthan,rajyavardhan singh rathore,bharatiya janta party,1699462,1013691,59.70%,332896,32.80%,1014578.814,32.83998773,FALSE
+Jalore,18,GEN,Rajasthan,devji patel,bharatiya janta party,1824968,1087272,59.60%,381145,35.10%,1087680.928,35.05516559,FALSE
+Jhalawar-Baran,25,GEN,Rajasthan,dushyant singh,bharatiya janta party,1669842,1146364,68.70%,281546,24.60%,1147181.454,24.55991291,FALSE
+Jhunjhunu,4,GEN,Rajasthan,santosh ahlawat,bharatiya janta party,1696788,1006465,59.30%,233835,23.20%,1006195.284,23.23329674,FALSE
+Jodhpur,16,GEN,Rajasthan,gajendrasingh shekhawat,bharatiya janta party,1727363,1078598,62.40%,410051,38.00%,1077874.512,38.01703693,FALSE
+Karauli-Dholpur,10,SC,Rajasthan,manoj rajoria,bharatiya janta party,1549662,845941,54.60%,27216,3.20%,846115.452,3.217245647,FALSE
+Kota,24,GEN,Rajasthan,om birla,bharatiya janta party,1744539,1154960,66.20%,200782,17.40%,1154884.818,17.384325,FALSE
+Nagaur,14,GEN,Rajasthan,c r choudhary,bharatiya janta party,1678662,1004019,59.80%,75218,7.50%,1003839.876,7.491690894,FALSE
+Pali,15,GEN,Rajasthan,p p choudhary,bharatiya janta party,1893030,1095587,57.90%,399039,36.40%,1096064.37,36.42239274,FALSE
+Rajsamand,22,GEN,Rajasthan,hariom singh rathore,bharatiya janta party,1699401,982119,57.80%,395705,40.30%,982253.778,40.29094234,FALSE
+Sikar,5,GEN,Rajasthan,sumedhanand saraswati,bharatiya janta party,1770424,1065750,60.20%,239196,22.40%,1065795.248,22.44391274,FALSE
+Madhopur,12,GEN,Rajasthan,sukhbir singh jaunapuria,,1710775,1043040,61.00%,135311,13.00%,1043573,12.97,FALSE
+Tonk-Sawai,12,GEN,Rajasthan,sukhbir singh jaunapuria,bharatiya janta party,1710775,1043040,61.00%,135311,13.00%,1043572.75,12.97275272,FALSE
+Udaipur,19,ST,Rajasthan,arjunlal meena,bharatiya janta party,1817940,1193202,65.60%,236762,19.80%,1192568.64,19.84257485,FALSE
+Sikkim,1,GEN,Sikkim,prem das rai,sikkim democratic front,370611,308967,83.40%,41742,13.50%,309089.574,13.5101807,FALSE
+Arakkonam,7,GEN,Tamil Nadu,hari g.,all india anna dravida munnetra kazhagam,1401545,1089052,77.70%,240766,22.10%,1089000.465,22.1078516,FALSE
+Arani,12,GEN,Tamil Nadu,v.elumalai,all india anna dravida munnetra kazhagam,1369668,1096046,80.00%,243844,22.20%,1095734.4,22.2476064,FALSE
+Chennai Central,4,GEN,Tamil Nadu,s.r. vijayakumar,all india anna dravida munnetra kazhagam,1328027,814894,61.40%,45841,5.60%,815408.578,5.625394223,FALSE
+Chennai North,2,GEN,Tamil Nadu,venkatesh babu .t.g,all india anna dravida munnetra kazhagam,1422386,910114,64.00%,99704,11.00%,910327.04,10.95511112,FALSE
+Chennai South,3,GEN,Tamil Nadu,dr. j. jayavardhan,all india anna dravida munnetra kazhagam,1795780,1081163,60.20%,136625,12.60%,1081059.56,12.63685494,FALSE
+Chidambaram,27,SC,Tamil Nadu,chandrakasi m,all india anna dravida munnetra kazhagam,1366189,1088423,79.70%,128495,11.80%,1088852.633,11.80561234,FALSE
+Coimbatore,20,GEN,Tamil Nadu,nagarajan p.,all india anna dravida munnetra kazhagam,1720211,1176620,68.40%,42016,3.60%,1176624.324,3.570906495,FALSE
+Cuddalore,26,GEN,Tamil Nadu,arunmozhithevan.a,all india anna dravida munnetra kazhagam,1247908,984538,78.90%,203125,20.60%,984599.412,20.63150432,FALSE
+Dharmapuri,10,GEN,Tamil Nadu,anbumani ramadoss,pattali makkal katchi,1358273,1101345,81.10%,77146,7.00%,1101559.403,7.00470788,FALSE
+Dindigul,22,GEN,Tamil Nadu,udhaya kumar .m,all india anna dravida munnetra kazhagam,1400531,1083364,77.40%,127845,11.80%,1084010.994,11.80074287,FALSE
+Erode,17,GEN,Tamil Nadu,selvakumara chinnayan s,all india anna dravida munnetra kazhagam,1321395,1008582,76.30%,211563,21.00%,1008224.385,20.97628155,FALSE
+Kallakurichi,14,GEN,Tamil Nadu,kamaraj. k,all india anna dravida munnetra kazhagam,1412499,1107241,78.40%,223507,20.20%,1107399.216,20.18593965,FALSE
+Kancheepuram,6,SC,Tamil Nadu,maragatham k,all india anna dravida munnetra kazhagam,1480123,1128399,76.20%,146866,13.00%,1127853.726,13.0154316,FALSE
+Kanniyakumari,39,GEN,Tamil Nadu,radhakrishnan p.,bharatiya janta party,1467796,990742,67.50%,128662,13.00%,990762.3,12.98642835,FALSE
+Karur,23,GEN,Tamil Nadu,thambiduraim.,all india anna dravida munnetra kazhagam,1298322,1046534,80.60%,195247,18.70%,1046447.532,18.65653672,FALSE
+Krishnagiri,9,GEN,Tamil Nadu,ashok kumar.k,all india anna dravida munnetra kazhagam,1379957,1068391,77.40%,206591,19.30%,1068086.718,19.33664735,FALSE
+Madurai,32,GEN,Tamil Nadu,r.gopalakrishnan,all india anna dravida munnetra kazhagam,1441434,978346,67.90%,197436,20.20%,978733.686,20.18059051,FALSE
+Mayiladuthurai,28,GEN,Tamil Nadu,bharathi mohan r.k,all india anna dravida munnetra kazhagam,1350318,1025538,76.00%,277050,27.00%,1026241.68,27.01508867,FALSE
+Nagapattinam,29,SC,Tamil Nadu,gopal. dr. k,all india anna dravida munnetra kazhagam,1210626,942202,77.80%,106079,11.30%,941867.028,11.25862607,FALSE
+Namakkal,16,GEN,Tamil Nadu,sundaram p.r,all india anna dravida munnetra kazhagam,1329552,1058755,79.60%,294374,27.80%,1058323.392,27.80378841,FALSE
+Nilgiris,19,SC,Tamil Nadu,gopalakrishnan c.,all india anna dravida munnetra kazhagam,1269163,933076,73.50%,104940,11.20%,932834.805,11.2466723,FALSE
+Perambalur,25,GEN,Tamil Nadu,marutharajaa r.p.,all india anna dravida munnetra kazhagam,1285434,1030826,80.20%,213048,20.70%,1030918.068,20.66769756,FALSE
+Pollachi,21,GEN,Tamil Nadu,mahendran.c,all india anna dravida munnetra kazhagam,1381505,1012667,73.30%,140974,13.90%,1012643.165,13.92106191,FALSE
+Ramanathapuram,35,GEN,Tamil Nadu,anwhar raajhaa.a,all india anna dravida munnetra kazhagam,1455891,1001048,68.80%,119324,11.90%,1001653.008,11.91990794,FALSE
+Salem,15,GEN,Tamil Nadu,pannerselvam.v,all india anna dravida munnetra kazhagam,1498350,1150296,76.80%,267610,23.30%,1150732.8,23.26444672,FALSE
+Sivaganga,31,GEN,Tamil Nadu,senthilnathan pr,all india anna dravida munnetra kazhagam,1412373,1027036,72.70%,229385,22.30%,1026795.171,22.33466013,FALSE
+Sriperumbudur,5,GEN,Tamil Nadu,ramachandran k.n. thiru,all india anna dravida munnetra kazhagam,1946503,1286647,66.10%,102646,8.00%,1286638.483,7.977790334,FALSE
+Tenkasi,37,SC,Tamil Nadu,vasanthi.m,all india anna dravida munnetra kazhagam,1382081,1017938,73.70%,161774,15.90%,1018593.697,15.8923235,FALSE
+Thanjavur,30,GEN,Tamil Nadu,parasuraman.k,all india anna dravida munnetra kazhagam,1340050,1012258,75.50%,144119,14.20%,1011737.75,14.23737822,FALSE
+Theni,33,GEN,Tamil Nadu,parthipan r.,all india anna dravida munnetra kazhagam,1441302,1075583,74.60%,314532,29.20%,1075211.292,29.24293151,FALSE
+Tiruvallur,1,SC,Tamil Nadu,venugopal.p.(dr),all india anna dravida munnetra kazhagam,1702833,1254440,73.70%,323430,25.80%,1254987.921,25.78281943,FALSE
+Thoothukkudi,36,GEN,Tamil Nadu,jeyasingh thiyagaraj natterjee.j,all india anna dravida munnetra kazhagam,1310597,916778,70.00%,124002,13.50%,917417.9,13.52584813,FALSE
+Tiruchirappalli,24,GEN,Tamil Nadu,kumar.p,all india anna dravida munnetra kazhagam,1387140,988250,71.20%,150476,15.20%,987643.68,15.22651151,FALSE
+Tirunelveli,38,GEN,Tamil Nadu,prabakaran.k.r.p,all india anna dravida munnetra kazhagam,1420435,962330,67.80%,126099,13.10%,963054.93,13.10350919,FALSE
+Tiruppur,18,GEN,Tamil Nadu,v.sathyabama,all india anna dravida munnetra kazhagam,1375589,1050190,76.30%,179315,17.10%,1049574.407,17.07452937,FALSE
+Tiruvannamalai,11,GEN,Tamil Nadu,vanaroja r,all india anna dravida munnetra kazhagam,1352966,1067447,78.90%,168606,15.80%,1067490.174,15.79525728,FALSE
+Vellore,8,GEN,Tamil Nadu,senguttuvan b.,all india anna dravida munnetra kazhagam,1312251,974770,74.30%,59393,6.10%,975002.493,6.093027073,FALSE
+Viluppuram,13,SC,Tamil Nadu,rajendran s,all india anna dravida munnetra kazhagam,1387007,1067641,77.00%,193367,18.10%,1067995.39,18.11161242,FALSE
+Virudhunagar,34,GEN,Tamil Nadu,radhakrishnan t,all india anna dravida munnetra kazhagam,1350495,1010930,74.90%,145551,14.40%,1011520.755,14.39773278,FALSE
+Adilabad,1,ST,Telangana,godam nagesh,telangana rashtra samithi,1386233,1045839,75.40%,171290,16.40%,1045219.682,16.37823795,FALSE
+Bhongir,14,GEN,Telangana,dr. boora narsaiah goud,telangana rashtra samithi,1492251,1211943,81.20%,30494,2.50%,1211707.812,2.516124933,FALSE
+Chevella,10,GEN,Telangana,konda vishweshwar reddy,telangana rashtra samithi,2185179,1315862,60.20%,73023,5.50%,1315477.758,5.549442115,FALSE
+Hyderabad,9,GEN,Telangana,asaduddin owaisi,all india majlis-e-ittehadul muslimoon,1823664,971421,53.30%,202454,20.80%,972012.912,20.84101538,FALSE
+Karimnagar,3,GEN,Telangana,vinod kumar boinapally,telangana rashtra samithi,1550834,1125691,72.60%,205077,18.20%,1125905.484,18.21787684,FALSE
+Khammam,17,GEN,Telangana,ponguleti srinivasa reddy,yuvajana sramika rythu congress party,1440289,1182897,82.10%,11974,1.00%,1182477.269,1.012260577,FALSE
+Mahabubabad,16,ST,Telangana,prof. azmeera seetaram naik,telangana rashtra samithi,1387343,1124370,81.00%,34992,3.10%,1123747.83,3.1121428,FALSE
+Mahbubnagar,11,GEN,Telangana,ap jithender reddy,telangana rashtra samithi,1418672,1014800,71.50%,2590,0.30%,1014350.48,0.255222704,FALSE
+Malkajgiri,7,GEN,Telangana,ch.malla reddy,telugu desam,3183325,1620397,50.90%,28371,1.80%,1620312.425,1.750867226,FALSE
+Medak,6,GEN,Telangana,kalvakuntla chandrasekhar rao,telangana rashtra samithi,1536715,1191096,77.50%,397029,33.30%,1190954.125,33.33308146,FALSE
+Nagarkurnool,12,SC,Telangana,yellaiah nandi,indian national congress,1477338,1108968,75.10%,16676,1.50%,1109480.838,1.503740415,FALSE
+Nalgonda,13,GEN,Telangana,gutha sukhender reddy,indian national congress,1495580,1189399,79.50%,193156,16.20%,1188986.1,16.23979842,FALSE
+Nizamabad,4,GEN,Telangana,kalvakuntla kavitha,telangana rashtra samithi,1496193,1033924,69.10%,167184,16.20%,1033869.363,16.16985388,FALSE
+Peddapalle,2,SC,Telangana,balka suman,telangana rashtra samithi,1425361,1022184,71.70%,291158,28.50%,1021983.837,28.48391288,FALSE
+Secundrabad,8,GEN,Telangana,bandaru dattatreya,bharatiya janta party,1893647,1003769,53.00%,254735,25.40%,1003632.91,25.37785088,FALSE
+Warangal,15,SC,Telangana,kadiyam srihari,telangana rashtra samithi,1537781,1174631,76.40%,392574,33.40%,1174864.684,33.42104882,FALSE
+Zahirabad,5,GEN,Telangana,b.b. patil,telangana rashtra samithi,1445246,1094806,75.80%,144631,13.20%,1095496.468,13.21065102,FALSE
+Tripura East,2,ST,Tripura,jitendra choudhury,communist party of india (marxist),1140269,951110,83.40%,484358,50.90%,950984.346,50.92555015,FALSE
+Tripura West,1,GEN,Tripura,sankar prasad datta,communist party of india (marxist),1248550,1072749,85.90%,503486,46.90%,1072504.45,46.93418498,FALSE
+Agra,18,SC,Uttar Pradesh,dr. ram shankar katheria,bharatiya janta party,1814739,1070400,59.00%,300263,28.10%,1070696.01,28.05147608,FALSE
+Akbarpur,44,GEN,Uttar Pradesh,devendra singh @ bhole singh,bharatiya janta party,1768623,971375,54.90%,278997,28.70%,970974.027,28.72186334,FALSE
+Aligarh,15,GEN,Uttar Pradesh,satish kumar,bharatiya janta party,1793126,1064357,59.40%,286736,26.90%,1065116.844,26.93983316,FALSE
+Allahabad,52,GEN,Uttar Pradesh,shyama charan gupta,bharatiya janta party,1666569,891582,53.50%,62009,7.00%,891614.415,6.954940768,FALSE
+Ambedkar Nagar,55,GEN,Uttar Pradesh,hari om pandey,bharatiya janta party,1718774,1034404,60.20%,139429,13.50%,1034701.948,13.47916288,FALSE
+Amethi,37,GEN,Uttar Pradesh,rahul gandhi,indian national congress,1669843,874625,52.40%,107903,12.30%,874997.732,12.33705874,FALSE
+Amroha,9,GEN,Uttar Pradesh,kanwar singh tanwar,bharatiya janta party,1544242,1095860,71.00%,158214,14.40%,1096411.82,14.43742814,FALSE
+Aonla,24,GEN,Uttar Pradesh,dharmendra kumar,bharatiya janta party,1653577,995641,60.20%,138429,13.90%,995453.354,13.90350538,FALSE
+Azamgarh,69,GEN,Uttar Pradesh,mulayam singh yadav,samajwadi party,1703222,960218,56.40%,63204,6.60%,960617.208,6.58225528,FALSE
+Badaun,23,GEN,Uttar Pradesh,dharmendra yadav,samajwadi party,1769145,1027594,58.10%,166347,16.20%,1027873.245,16.1880081,FALSE
+Baghpat,11,GEN,Uttar Pradesh,dr. satya pal singh,bharatiya janta party,1505175,1004263,66.70%,209866,20.90%,1003951.725,20.8975139,FALSE
+Bahraich,56,SC,Uttar Pradesh,sadhvi savitri bai foole,bharatiya janta party,1638645,934263,57.00%,95645,10.20%,934027.65,10.23748131,FALSE
+Ballia,72,GEN,Uttar Pradesh,bharat singh,bharatiya janta party,1768271,942211,53.30%,139434,14.80%,942488.443,14.79859607,FALSE
+Banda,48,GEN,Uttar Pradesh,bhairon prasad mishra,bharatiya janta party,1601917,858326,53.60%,115788,13.50%,858627.512,13.48997933,FALSE
+Bansgaon,67,SC,Uttar Pradesh,kamlesh paswan,bharatiya janta party,1760110,877877,49.90%,189516,21.60%,878294.89,21.58799012,FALSE
+Barabanki,53,SC,Uttar Pradesh,priyanka singh rawat,bharatiya janta party,1721282,1068168,62.10%,211878,19.80%,1068916.122,19.83564383,FALSE
+Bareilly,25,GEN,Uttar Pradesh,santosh kumar gangwar,bharatiya janta party,1664081,1017891,61.20%,240685,23.60%,1018417.572,23.64545909,FALSE
+Basti,61,GEN,Uttar Pradesh,harish chandra alias harish dwivedi,bharatiya janta party,1847613,1048534,56.80%,33562,3.20%,1049444.184,3.200849949,FALSE
+Bhadohi,78,GEN,Uttar Pradesh,virendra singh,bharatiya janta party,1834598,981552,53.50%,158039,16.10%,981509.93,16.10092996,FALSE
+Bijnor,4,GEN,Uttar Pradesh,kunwar bhartendra,bharatiya janta party,1562065,1060346,67.90%,205774,19.40%,1060642.135,19.406307,FALSE
+Bulandshahr,14,SC,Uttar Pradesh,bhola singh,bharatiya janta party,1736447,1009710,58.20%,421973,41.80%,1010612.154,41.79150449,FALSE
+Chandauli,76,GEN,Uttar Pradesh,dr mahendra nath pandey,bharatiya janta party,1669140,980572,58.80%,156756,16.00%,981454.32,15.9861795,FALSE
+Deoria,66,GEN,Uttar Pradesh,kalraj mishra,bharatiya janta party,1806926,971557,53.80%,265386,27.30%,972126.188,27.31553578,FALSE
+Dhaurahra,29,GEN,Uttar Pradesh,rekha,bharatiya janta party,1558039,1060271,68.10%,125675,11.90%,1061024.559,11.85310171,FALSE
+Domariyaganj,60,GEN,Uttar Pradesh,jagdambika pal,bharatiya janta party,1761415,935027,53.10%,103588,11.10%,935311.365,11.07861056,FALSE
+Etah,22,GEN,Uttar Pradesh,rajveer singh (raju bhaiya),bharatiya janta party,1577457,926281,58.70%,201001,21.70%,925967.259,21.69978657,FALSE
+Etawah,41,SC,Uttar Pradesh,ashok kumar doharey,bharatiya janta party,1707237,939604,55.00%,172946,18.40%,938980.35,18.40626477,FALSE
+Faizabad,54,GEN,Uttar Pradesh,lallu singh,bharatiya janta party,1738701,1022716,58.80%,282775,27.60%,1022356.188,27.64941587,FALSE
+Farrukhabad,40,GEN,Uttar Pradesh,mukesh rajput,bharatiya janta party,1613781,970677,60.20%,150502,15.50%,971496.162,15.50484868,FALSE
+Fatehpur,49,GEN,Uttar Pradesh,niranjan jyoti,bharatiya janta party,1804777,1056688,58.60%,187206,17.70%,1057599.322,17.71629847,FALSE
+Fatehpur Sikri,19,GEN,Uttar Pradesh,babulal,bharatiya janta party,1580582,967968,61.20%,173106,17.90%,967316.184,17.88344243,FALSE
+Firozabad,20,GEN,Uttar Pradesh,akshay yadav,samajwadi party,1636738,1104606,67.50%,114059,10.30%,1104798.15,10.32576321,FALSE
+Gautam Buddha,13,GEN,Uttar Pradesh,dr.mahesh sharma,bharatiya janta party,1986117,1199238,60.40%,280212,23.40%,1199614.668,23.36583731,FALSE
+Ghaziabad,12,GEN,Uttar Pradesh,vijay kumar singh,bharatiya janta party,2357546,1342320,56.90%,567260,42.30%,1341443.674,42.25966983,FALSE
+Ghazipur,75,GEN,Uttar Pradesh,manoj sinha,bharatiya janta party,1801519,986673,54.80%,32452,3.30%,987232.412,3.289032942,FALSE
+Ghosi,70,GEN,Uttar Pradesh,harinarayan rajbhar,bharatiya janta party,1891113,1039656,55.00%,146015,14.00%,1040112.15,14.04454935,FALSE
+Gonda,59,GEN,Uttar Pradesh,kirti vardhan singh,bharatiya janta party,1710827,873732,51.10%,160416,18.40%,874232.597,18.35986321,FALSE
+Gorakhpur,64,GEN,Uttar Pradesh,adityanath,bharatiya janta party,1904498,1040199,54.60%,312783,30.10%,1039855.908,30.06953477,FALSE
+Hamirpur,47,GEN,Uttar Pradesh,kunwar pushpendra singh chandel,bharatiya janta party,1737993,975240,56.10%,266788,27.40%,975014.073,27.35613798,FALSE
+Hardoi,31,SC,Uttar Pradesh,anshul verma,bharatiya janta party,1714387,972894,56.80%,81343,8.40%,973771.816,8.360931407,FALSE
+Hathras,16,SC,Uttar Pradesh,rajesh kumar diwaker,bharatiya janta party,1758927,1049273,59.70%,326386,31.10%,1050079.419,31.1059181,FALSE
+Jalaun,45,SC,Uttar Pradesh,bhanu pratap singh verma,bharatiya janta party,1903332,1109166,58.30%,287202,25.90%,1109642.556,25.89350918,FALSE
+Jaunpur,73,GEN,Uttar Pradesh,krishna pratap 'k.p.',bharatiya janta party,1848842,1007143,54.50%,146310,14.50%,1007618.89,14.52723198,FALSE
+Jhansi,46,GEN,Uttar Pradesh,uma bharati,bharatiya janta party,1932015,1320804,68.40%,190467,14.40%,1321498.26,14.42053477,FALSE
+Kairana,2,GEN,Uttar Pradesh,hukum singh,bharatiya janta party,1531755,1119324,73.10%,236828,21.20%,1119712.905,21.15812758,FALSE
+Kaiserganj,57,GEN,Uttar Pradesh,brij bhusan sharan singh,bharatiya janta party,1711967,943357,55.10%,78218,8.30%,943293.817,8.291452759,FALSE
+Kannauj,42,GEN,Uttar Pradesh,dimple yadav,samajwadi party,1808889,1114460,61.60%,19907,1.80%,1114275.624,1.786246254,FALSE
+Kanpur,43,GEN,Uttar Pradesh,dr.murli manohar joshi,bharatiya janta party,1611248,835079,51.80%,222946,26.70%,834626.464,26.69759388,FALSE
+Kaushambi,50,SC,Uttar Pradesh,vinod kumar sonkar,bharatiya janta party,1738994,910038,52.30%,42847,4.70%,909493.862,4.70826493,FALSE
+Kheri,28,GEN,Uttar Pradesh,ajay kumar,bharatiya janta party,1679466,1077868,64.20%,110274,10.20%,1078217.172,10.23075182,FALSE
+Kushi Nagar,65,GEN,Uttar Pradesh,rajesh pandey urf guddu,bharatiya janta party,1680992,950445,56.50%,85540,9.00%,949760.48,8.999994739,FALSE
+Lalganj,68,SC,Uttar Pradesh,neelam sonkar,bharatiya janta party,1661483,898655,54.10%,63086,7.00%,898862.303,7.020046625,FALSE
+Lucknow,35,GEN,Uttar Pradesh,raj nath singh,bharatiya janta party,1949956,1033783,53.00%,272749,26.40%,1033476.68,26.3835834,FALSE
+Machhlishahr,74,SC,Uttar Pradesh,ram charitra nishad,bharatiya janta party,1891969,997902,52.70%,172155,17.30%,997067.663,17.25169405,FALSE
+Maharajganj,63,GEN,Uttar Pradesh,pankaj,bharatiya janta party,1743131,1056078,60.60%,240458,22.80%,1056337.386,22.76896214,FALSE
+Mainpuri,21,GEN,Uttar Pradesh,mulayam singh yadav,samajwadi party,1653065,999265,60.50%,364666,36.50%,1000104.325,36.49342267,FALSE
+Mathura,17,GEN,Uttar Pradesh,hema malini,bharatiya janta party,1682260,1076868,64.00%,330743,30.70%,1076646.4,30.71342077,FALSE
+Meerut,10,GEN,Uttar Pradesh,rajendra agarwal,bharatiya janta party,1764388,1113384,63.10%,232326,20.90%,1113328.828,20.86665517,FALSE
+Mirzapur,79,GEN,Uttar Pradesh,anupriya singh patel,apna dal,1720661,1007627,58.60%,219079,21.70%,1008307.346,21.74207321,FALSE
+Misrikh,32,SC,Uttar Pradesh,anju bala,bharatiya janta party,1725585,998314,57.90%,87363,8.80%,999113.715,8.751054278,FALSE
+Mohanlalganj,34,SC,Uttar Pradesh,kaushal kishore,bharatiya janta party,1838194,1116588,60.70%,145416,13.00%,1115783.758,13.02324582,FALSE
+Moradabad,6,GEN,Uttar Pradesh,kunwer sarvesh kumar,bharatiya janta party,1772046,1127965,63.70%,87504,7.80%,1128793.302,7.757687517,FALSE
+Muzaffarnagar,3,GEN,Uttar Pradesh,(dr.) sanjeev kumar balyan,bharatiya janta party,1588483,1107434,69.70%,401150,36.20%,1107172.651,36.22337765,FALSE
+Nagina,5,SC,Uttar Pradesh,yashwant singh,bharatiya janta party,1493411,942196,63.10%,92390,9.80%,942342.341,9.805815351,FALSE
+Phulpur,51,GEN,Uttar Pradesh,keshav prasad maurya,bharatiya janta party,1913274,960341,50.20%,308308,32.10%,960463.548,32.10401305,FALSE
+Pilibhit,26,GEN,Uttar Pradesh,maneka sanjay gandhi,bharatiya janta party,1671151,1050547,62.90%,307052,29.20%,1051153.979,29.22782132,FALSE
+Pratapgarh,39,GEN,Uttar Pradesh,kuwar harivansh singh,apna dal,1716625,894456,52.10%,168222,18.80%,894361.625,18.8071856,FALSE
+Rae Bareli,36,GEN,Uttar Pradesh,sonia gandhi,indian national congress,1594954,825136,51.70%,352713,42.70%,824591.218,42.74604429,FALSE
+Rampur,7,GEN,Uttar Pradesh,dr. nepal singh,bharatiya janta party,1616984,956389,59.20%,23435,2.50%,957254.528,2.450362771,FALSE
+Robertsganj,80,SC,Uttar Pradesh,chhotelal,bharatiya janta party,1639561,885873,54.00%,190486,21.50%,885362.94,21.50263074,FALSE
+Saharanpur,1,GEN,Uttar Pradesh,raghav lakhanpal,bharatiya janta party,1608833,1194308,74.20%,65090,5.50%,1193754.086,5.450017918,FALSE
+Salempur,71,GEN,Uttar Pradesh,ravindra kushawaha,bharatiya janta party,1661737,854749,51.40%,232342,27.20%,854132.818,27.18248281,FALSE
+Sambhal,8,GEN,Uttar Pradesh,satyapal singh,bharatiya janta party,1693245,1057002,62.40%,5174,0.50%,1056584.88,0.489497655,FALSE
+Sant Kabir Nagar,62,GEN,Uttar Pradesh,sharad tripathi,bharatiya janta party,1904327,1011649,53.10%,97978,9.70%,1011197.637,9.684979672,FALSE
+Shahjahanpur,27,SC,Uttar Pradesh,krishna raj,bharatiya janta party,1979294,1129841,57.10%,235529,20.80%,1130176.874,20.84620756,FALSE
+Shrawasti,58,GEN,Uttar Pradesh,daddan mishra,bharatiya janta party,1788080,979638,54.80%,85913,8.80%,979867.84,8.769872136,FALSE
+Sitapur,30,GEN,Uttar Pradesh,rajesh verma,bharatiya janta party,1550263,1026972,66.30%,51027,5.00%,1027824.369,4.968684638,FALSE
+Sultanpur,38,GEN,Uttar Pradesh,feroze varun gandhi,bharatiya janta party,1703698,964981,56.60%,178902,18.50%,964293.068,18.53943238,FALSE
+Unnao,33,GEN,Uttar Pradesh,swami sachchidanand hari sakshi,bharatiya janta party,2164392,1201603,55.50%,310173,25.80%,1201237.56,25.81326778,FALSE
+Varanasi,77,GEN,Uttar Pradesh,narendra modi,bharatiya janta party,1767486,1030685,58.30%,371784,36.10%,1030444.338,36.07154465,FALSE
+Almora,3,SC,Uttarakhand,ajay tamta,bharatiya janta party,1254328,656525,52.30%,95690,14.60%,656013.544,14.57522562,FALSE
+Garhwal,2,GEN,Uttarakhand,(maj gen (retd.) ) bhuwan chandra khanduri (avsm),bharatiya janta party,1269083,682024,53.70%,184526,27.10%,681497.571,27.05564614,FALSE
+Hardwar,5,GEN,Uttarakhand,ramesh pokhriyal nishank,bharatiya janta party,1642873,1175692,71.60%,177822,15.10%,1176297.068,15.12487965,FALSE
+Nainital-Udham Singh Nagar,4,GEN,Uttarakhand,bhagat singh koshyari,bharatiya janta party,1610810,1101435,68.40%,284717,25.80%,1101794.04,25.8496416,FALSE
+Tehri Garhwal,1,GEN,Uttarakhand,mala rajya laxmi shah,bharatiya janta party,1352845,776214,57.40%,192503,24.80%,776533.03,24.80024839,FALSE
+Alipurduars,2,ST,West Bengal,dasrath tirkey,all india trinamool congress,1470911,1223566,83.20%,21397,1.70%,1223797.952,1.748740975,FALSE
+Arambag,29,SC,West Bengal,aparupa poddar (afrin ali),all india trinamool congress,1600293,1361934,85.10%,346845,25.50%,1361849.343,25.46709312,FALSE
+Asansol,40,GEN,West Bengal,babul supriya baral (babul supriyo),bharatiya janta party,1469684,1142395,77.70%,70480,6.20%,1141944.468,6.169494789,FALSE
+Baharampur,10,GEN,West Bengal,adhir ranjan chowdhury,indian national congress,1453783,1154587,79.40%,356567,30.90%,1154303.702,30.88264462,FALSE
+Balurghat,6,GEN,West Bengal,arpita ghosh,all india trinamool congress,1254497,1063053,84.70%,106964,10.10%,1062558.959,10.06196304,FALSE
+Bangaon,14,SC,West Bengal,kapil krishna thakur,all india trinamool congress,1540713,1283688,83.30%,146601,11.40%,1283413.929,11.42029839,FALSE
+Bankura,36,GEN,West Bengal,sreemati dev varma (moon moon sen),all india trinamool congress,1503812,1236319,82.20%,98506,8.00%,1236133.464,7.967684716,FALSE
+Barasat,17,GEN,West Bengal,dr. kakali ghoshdostidar,all india trinamool congress,1512792,1269331,83.90%,173141,13.60%,1269232.488,13.64033495,FALSE
+Bardhaman-Durgapur,38,SC,West Bengal,sunil kumar mondal,all india trinamool congress,1532244,1320922,86.20%,114479,8.70%,1320794.328,8.666598028,FALSE
+Bardhaman Purba,15,GEN,West Bengal,dinesh trivedi,all india trinamool congress,1287222,1051130,81.70%,206773,19.70%,1051660.374,19.67149639,FALSE
+Barrackpur,18,GEN,West Bengal,idris ali,all india trinamool congress,1490596,1273771,85.50%,109659,8.60%,1274459.58,8.609004287,FALSE
+Basirhat,42,GEN,West Bengal,satabdi roy,all india trinamool congress,1495108,1275819,85.30%,67263,5.30%,1275327.124,5.272142835,FALSE
+Birbhum,37,SC,West Bengal,khan saumitra,all india trinamool congress,1466921,1272070,86.70%,149685,11.80%,1271820.507,11.76704112,FALSE
+Bishnupur,41,SC,West Bengal,anupam hazra,all india trinamool congress,1538429,1304756,84.80%,236112,18.10%,1304587.792,18.09625708,FALSE
+Bolpur,39,GEN,West Bengal,dr. mamtaz sanghamita,all india trinamool congress,1583498,1331242,84.10%,107331,8.10%,1331721.818,8.062470986,FALSE
+Burdwan - Durgapur,1,SC,West Bengal,renuka sinha,all india trinamool congress,1613417,1332409,82.60%,87107,6.50%,1332682.442,6.537557162,FALSE
+Coochbehar,4,GEN,West Bengal,s.s.ahluwalia,bharatiya janta party,1437126,1142009,79.50%,197239,17.30%,1142515.17,17.27122991,FALSE
+Darjeeling,21,GEN,West Bengal,abhishek banerjee,all india trinamool congress,1555914,1261296,81.10%,71298,5.70%,1261846.254,5.652757164,FALSE
+Diamond Harbour,16,GEN,West Bengal,saugata roy,all india trinamool congress,1405981,1132644,80.60%,154934,13.70%,1133220.686,13.67896709,FALSE
+Dum Dum,32,GEN,West Bengal,adhikari deepak (dev),all india trinamool congress,1610489,1366709,84.90%,260891,19.10%,1367305.161,19.08899407,FALSE
+Ghatal,28,GEN,West Bengal,dr. ratna de (nag),all india trinamool congress,1630042,1348870,82.80%,189084,14.00%,1349674.776,14.01795577,FALSE
+Hooghly,25,GEN,West Bengal,prasun banerjee,all india trinamool congress,1505099,1125399,74.80%,196956,17.50%,1125814.052,17.50099298,FALSE
+Howrah,22,GEN,West Bengal,sugata bose,all india trinamool congress,1595746,1272362,79.70%,125203,9.80%,1271809.562,9.84020271,FALSE
+Jadavpur,3,SC,West Bengal,bijoy chandra barman,all india trinamool congress,1531469,1302117,85.00%,69606,5.30%,1301748.65,5.345602584,FALSE
+Jalpaiguri,9,GEN,West Bengal,abhijit mukherjee,indian national congress,1391656,1119084,80.40%,8161,0.70%,1118891.424,0.729257142,FALSE
+Jangipur,33,ST,West Bengal,uma saren,all india trinamool congress,1475112,1257613,85.30%,347883,27.70%,1258270.536,27.66216634,FALSE
+Jhargram,19,SC,West Bengal,pratima mondal,all india trinamool congress,1458724,1186052,81.30%,108384,9.10%,1185942.612,9.138216537,FALSE
+Jaynagar,31,GEN,West Bengal,adhikari sisir kumar,all india trinamool congress,1490409,1290811,86.60%,229490,17.80%,1290694.194,17.7787453,FALSE
+Kanthi,23,GEN,West Bengal,subrata bakshi,all india trinamool congress,1685296,1167979,69.30%,136339,11.70%,1167910.128,11.67306946,FALSE
+Kolkata Dakshin,24,GEN,West Bengal,sudip bandyopadhyay,all india trinamool congress,1433985,955778,66.70%,96226,10.10%,956467.995,10.0678191,FALSE
+Kolkata Uttar,12,GEN,West Bengal,tapas paul,all india trinamool congress,1476783,1247914,84.50%,71255,5.70%,1247881.635,5.709928729,FALSE
+Krishnanagar,8,GEN,West Bengal,abu hasem khan chowdhury,indian national congress,1347143,1092407,81.10%,164111,15.00%,1092532.973,15.02288067,FALSE
+Maldaha Uttar,7,GEN,West Bengal,mausam noor,indian national congress,1425428,1162985,81.60%,65705,5.60%,1163149.248,5.649685937,FALSE
+Maldaha,20,SC,West Bengal,choudhury mohan jatua,all india trinamool congress,1488784,1265531,85.00%,138436,10.90%,1265466.4,10.93896554,FALSE
+Mathurapur,34,GEN,West Bengal,sandhya roy,all india trinamool congress,1499673,1260032,84.00%,184666,14.70%,1259725.32,14.65565954,FALSE
+Medinipur,11,GEN,West Bengal,badaruddoza khan,communist party of india (marxist),1512098,1287763,85.20%,18453,1.40%,1288307.496,1.432950007,FALSE
+Murshidabad,35,GEN,West Bengal,dr. mriganka mahato,all india trinamool congress,1471933,1204675,81.80%,153877,12.80%,1204041.194,12.77332061,FALSE
+Purulia,5,GEN,West Bengal,md. salim,communist party of india (marxist),1387526,1108193,79.90%,1634,0.10%,1108633.274,0.147447241,FALSE
+Raiganj,13,SC,West Bengal,tapas mandal,all india trinamool congress,1602849,1353196,84.40%,201767,14.90%,1352804.556,14.9104047,FALSE
+Ranaghat,27,GEN,West Bengal,kalyan banerjee,all india trinamool congress,1624038,1290433,79.50%,152526,11.80%,1291110.21,11.81975352,FALSE
+Sreerampur,30,GEN,West Bengal,adhikari suvendu,all india trinamool congress,1527273,1337684,87.60%,246481,18.40%,1337891.148,18.42595112,FALSE
+Tamluk,26,GEN,West Bengal,sultan ahmed,all india trinamool congress,1448632,1186027,81.90%,201222,17.00%,1186429.608,16.96605558,FALSE
+Uluberia,26,GEN,West Bengal,sultan ahmed,all india trinamool congress,1448632,1186027,81.90%,201222,17.00%,1186429.608,16.96605558,FALSE
